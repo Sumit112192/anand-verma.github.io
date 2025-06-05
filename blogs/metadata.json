@@ -1,19 +1,6 @@
 {
   "posts": [
     {
-      "id": "post-1",
-      "title": "काला अध्याय",
-      "excerpt": "हर किसी के पास यादों का जखीरा होता हैं। कुछ यादें मीठी  होती हैं वहीं कुछ यादें खट्टी। लेकिन कुछ यादें काली भी होती हैं।",
-      "date": "2022-09-29",
-      "author": "Anand",
-      "tags": [
-        "Life",
-        "Philosophy"
-      ],
-      "readTime": "5 min read",
-      "slug": "dark-chapter"
-    },
-    {
       "id": "post-2",
       "title": "तितली",
       "excerpt": "टूटे वादे, गहरी उदासी",
@@ -25,6 +12,19 @@
       ],
       "readTime": "3 min read",
       "slug": "titli"
+    },
+    {
+      "id": "post-1",
+      "title": "काला अध्याय",
+      "excerpt": "हर किसी के पास यादों का जखीरा होता हैं। कुछ यादें मीठी  होती हैं वहीं कुछ यादें खट्टी। लेकिन कुछ यादें काली भी होती हैं।",
+      "date": "2022-09-29",
+      "author": "Anand",
+      "tags": [
+        "Life",
+        "Philosophy"
+      ],
+      "readTime": "5 min read",
+      "slug": "dark-chapter"
     }
   ]
 }
