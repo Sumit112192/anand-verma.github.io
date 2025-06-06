@@ -77,7 +77,7 @@ class MarkdownLoader {
 
     renderPost(meta, content) {
         // Update page title
-        document.title = `${meta.title} - John Doe Blog`;
+        document.title = `${meta.title} - Anand Verma Blog`;
 
         // Render post header
         const headerContainer = document.querySelector(".blog-post-header");

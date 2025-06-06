@@ -38,14 +38,14 @@ class BlogManager {
         // Fallback data if JSON fails to load
         this.posts = [
             {
-                id: 'post-1',
-                title: 'Getting Started with Modern Web Development',
-                excerpt: 'A comprehensive guide to modern web development practices and tools.',
+                id: 'post-0',
+                title: 'Getting Started with Markdown File',
+                excerpt: 'A comprehensive guide to use and create markdown file.',
                 date: '2024-01-15',
-                author: 'John Doe',
-                tags: ['web development', 'javascript', 'frontend'],
+                author: 'Anonymous',
+                tags: ['Technology'],
                 readTime: '8 min read',
-                slug: 'getting-started-modern-web-development'
+                slug: 'md-file-use-guide'
             }
         ];
         this.filteredPosts = [...this.posts];
