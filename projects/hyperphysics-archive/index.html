@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>The Hyperphysics Archive</title>
+  <style>
+    html, body {
+
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      display: flex;
+      justify-content: center; /* center horizontally */
+      align-items: center;     /* center vertically */
+      background: #FDE2C7;     /* optional background */
+    }
+    .iframe-container {
+      width: 100%;
+      max-width: 800px;       /* max width */
+      height: 100vh;           /* full viewport height */
+      box-sizing: border-box;
+    }
+    iframe {
+      width: 100%;             /* fill container width */
+      height: 100%;            /* fill container height */
+      border: none;
+      display: block;
+      aspect-ratio: 16 / 9;    /* optional, but may conflict with height 100% */
+      object-fit: contain;     /* maintain aspect ratio inside iframe */
+    }
+  </style>
+</head>
+<body>
+  <div class="iframe-container">
+    <iframe src="https://hyperphysics-archive.netlify.app/hph.html" allowfullscreen></iframe>
+  </div>
+</body>
+</html>
