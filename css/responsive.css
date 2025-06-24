@@ -22,6 +22,10 @@
         justify-content: center;
     }
 
+    .anaverse-grid {
+        grid-template-columns: repeat(1, 1fr);
+      }
+
     .quick-links-grid {
         grid-template-columns: 1fr;
     }

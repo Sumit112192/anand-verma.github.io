@@ -38,14 +38,14 @@ class BlogManager {
         // Fallback data if JSON fails to load
         this.posts = [
             {
-                id: 'post-0',
-                title: 'Getting Started with Markdown File',
-                excerpt: 'A comprehensive guide to use and create markdown file.',
+                id: 'post-1',
+                title: 'Getting Started with Modern Web Development',
+                excerpt: 'A comprehensive guide to modern web development practices and tools.',
                 date: '2024-01-15',
-                author: 'Anonymous',
-                tags: ['Technology'],
+                author: 'John Doe',
+                tags: ['web development', 'javascript', 'frontend'],
                 readTime: '8 min read',
-                slug: 'md-file-use-guide'
+                slug: 'getting-started-modern-web-development'
             }
         ];
         this.filteredPosts = [...this.posts];
@@ -165,6 +165,9 @@ class BlogManager {
     createPostCard(post) {
         return `
             <article class="blog-post-card">
+                <h2 class="blog-post-title">
+                    <a href="post/?slug=${post.slug}">${post.title}</a>
+                </h2>
                 <div class="blog-post-meta">
                     <span class="post-date">
                         <i class="fas fa-calendar"></i>
@@ -179,9 +182,7 @@ class BlogManager {
                         ${post.author}
                     </span>
                 </div>
-                <h2 class="blog-post-title">
-                    <a href="post/?slug=${post.slug}">${post.title}</a>
-                </h2>
+                
                 <p class="blog-post-excerpt">${post.excerpt}</p>
                 <div class="blog-tags">
                     ${post.tags.map(tag => `<span class="blog-tag">${tag}</span>`).join('')}
@@ -205,8 +206,6 @@ class BlogManager {
             <li>
                 <a href="post/?slug=${post.slug}">
                     ${post.title}
-                    <small class="featured-date">${this.formatDate(post.date)}</small>
-                </a>
             </li>
         `).join('');
 
