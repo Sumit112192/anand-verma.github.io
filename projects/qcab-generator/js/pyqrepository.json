@@ -1,0 +1,2343 @@
+{
+    "questions_repository": [
+      {
+        "question_id": "GS1_2025_Q01",
+        "question_text": "Discuss the salient features of the Harappan architecture.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T1"]
+      },
+      {
+        "question_id": "GS1_2025_Q02",
+        "question_text": "Examine the main aspects of Akbar’s religious syncretism.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T2", "GS1_T3"]
+      },
+      {
+        "question_id": "GS1_2025_Q03",
+        "question_text": "‘The sculptors filled the Chandella artform with resilient vigor and breadth of life.’ Elucidate.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T1"]
+      },
+      {
+        "question_id": "GS1_2025_Q04",
+        "question_text": "How are climate change and the sea level rise affecting the very existence of many island nations? Discuss with examples.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T12", "GS3_T14"]
+      },
+      {
+        "question_id": "GS1_2025_Q05",
+        "question_text": "What are non-farm primary activities? How are these activities related to physiographic features in India? Discuss with suitable examples.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T11"]
+      },
+      {
+        "question_id": "GS1_2025_Q06",
+        "question_text": "Explain briefly the ecological and economic benefits of solar energy generation in India with suitable examples.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS3_T9", "GS3_T14"]
+      },
+      {
+        "question_id": "GS1_2025_Q07",
+        "question_text": "What are Tsunamis ? How and where are they formed ? What are their consequences ? Explain with examples.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T12"]
+      },
+      {
+        "question_id": "GS1_2025_Q08",
+        "question_text": "How does smart city in India, address the issues of urban poverty and distributive justice ?",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T7", "GS1_T6"]
+      },
+      {
+        "question_id": "GS1_2025_Q09",
+        "question_text": "The ethos of civil service in India stand for the combination of professionalism with nationalistic consciousness – Elucidate.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS4_T6"]
+      },
+      {
+        "question_id": "GS1_2025_Q10",
+        "question_text": "Do you think that globalization results in only an aggressive consumer culture ? Justify your answer.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T8"]
+      },
+      {
+        "question_id": "GS1_2025_Q11",
+        "question_text": "Mahatma Joti Rao Phule’s writings and efforts of social reforms touched issues of almost all subaltern classes. Discuss.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T3", "GS1_T6"]
+      },
+      {
+        "question_id": "GS1_2025_Q12",
+        "question_text": "Trace India’s consolidation process during early phase of independence in terms of polity, economy, education and international relations.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T4"]
+      },
+      {
+        "question_id": "GS1_2025_Q13",
+        "question_text": "The French Revolution has enduring relevance to the contemporary world. Explain.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T5"]
+      },
+      {
+        "question_id": "GS1_2025_Q14",
+        "question_text": "Give a geographical explanation of the distribution of off-shore oil reserves of the world. How are they different from the on-shore occurrences of oil reserves?",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T11"]
+      },
+      {
+        "question_id": "GS1_2025_Q15",
+        "question_text": "How can Artificial Intelligence (AI) and drones be effectively used along with GIS and RS techniques in locational and areal planning?",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS3_T11"]
+      },
+      {
+        "question_id": "GS1_2025_Q16",
+        "question_text": "Discuss how the changes in shape and sizes of continents and ocean basins of the planet take place due to tectonic movements of the crustal masses.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T12"]
+      },
+      {
+        "question_id": "GS1_2025_Q17",
+        "question_text": "Discuss the distribution and density of population in the Ganga River Basin with special reference to land, soil and water resources.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T6", "GS1_T11"]
+      },
+      {
+        "question_id": "GS1_2025_Q18",
+        "question_text": "How do you account for the growing fast food industries given that there are increased health concerns in modern society? Illustrate your answer with the Indian experience.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T6"]
+      },
+      {
+        "question_id": "GS1_2025_Q19",
+        "question_text": "Achieving sustainable growth with emphasis on environmental protection could come into conflict with poor people’s needs in a country like India – Comment.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS3_T14", "GS1_T7"]
+      },
+      {
+        "question_id": "GS1_2025_Q20",
+        "question_text": "Does tribal development in India centre around two axes, those of displacement and of rehabilitation? Give your opinion.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T6", "GS1_T7"]
+      },
+      {
+        "question_id": "GS2_2025_Q01",
+        "question_text": "Discuss the ‘corrupt practices’ for the purpose of the Representation of the People Act, 1951. Analyze whether the increase in the assets of the legislators and/or their associates, disproportionate to their known sources of income, would constitute ‘undue influence’ and consequently a corrupt practice.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T7"]
+      },
+      {
+        "question_id": "GS2_2025_Q02",
+        "question_text": "Comment on the need of administrative tribunals as compared to the court system. Assess the impact of the recent tribunal reforms through rationalization of tribunals made in 2021.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T3", "GS2_T9"]
+      },
+      {
+        "question_id": "GS2_2025_Q03",
+        "question_text": "Compare and contrast the President’s power to pardon in India and in the USA. Are there any limits to it in both the countries? What are ‘preemptive pardons’?",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T8", "GS2_T4"]
+      },
+      {
+        "question_id": "GS2_2025_Q04",
+        "question_text": "Discuss the nature of Jammu and Kashmir Legislative Assembly after the Jammu and Kashmir Reorganization Act, 2019. Briefly describe the powers and functions of the Assembly of the Union Territory of Jammu and Kashmir.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T2", "GS2_T5"]
+      },
+      {
+        "question_id": "GS2_2025_Q05",
+        "question_text": "“The Attorney General of India plays a crucial role in guiding the legal framework of the Union Government and ensuring sound governance through legal counsel.” Discuss his responsibilities, rights and limitations in this regard.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T6"]
+      },
+      {
+        "question_id": "GS2_2025_Q06",
+        "question_text": "Women’s social capital complements in advancing empowerment and gender equity. Explain",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS1_T7"]
+      },
+      {
+        "question_id": "GS2_2025_Q07",
+        "question_text": "E-governance projects have a built-in bias towards technology and back-end integration than user-centric designs. Examine.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T15"]
+      },
+      {
+        "question_id": "GS2_2025_Q08",
+        "question_text": "Civil Society Organizations are often perceived as being anti-State actors than non-State actors. Do you agree? Justify.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T11"]
+      },
+      {
+        "question_id": "GS2_2025_Q09",
+        "question_text": "India-Africa digital partnership is achieving mutual respect, co-development and long-term institutional partnerships. Elaborate.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T18"]
+      },
+      {
+        "question_id": "GS2_2025_Q10",
+        "question_text": "“With the waning of globalization, post-Cold War world is becoming a site of sovereign nationalism.” Elucidate.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS1_T8", "GS2_T19"]
+      },
+      {
+        "question_id": "GS2_2025_Q11",
+        "question_text": "“Constitutional morality is the fulcrum which acts as an essential check upon the high functionaries and citizens alike…” In view of the above observation of the Supreme Court, explain the concept of constitutional morality and its application to ensure balance between judicial independence and judicial accountability in India.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T3", "GS4_T6"]
+      },
+      {
+        "question_id": "GS2_2025_Q12",
+        "question_text": "Indian Constitution has conferred the amending power on the ordinary legislative institutions with a few procedural hurdles. In view of this statement, examine the procedural and substantive limitations on the amending power of the Parliament to change the Constitution.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T1"]
+      },
+      {
+        "question_id": "GS2_2025_Q13",
+        "question_text": "Discuss the evolution of collegium system in India. Critically examine the advantages and disadvantages of the system of appointment of the Judges of the Supreme Court of India and that of the USA.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T3", "GS2_T4"]
+      },
+      {
+        "question_id": "GS2_2025_Q14",
+        "question_text": "Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms impacted the fiscal federalism in India",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T2"]
+      },
+      {
+        "question_id": "GS2_2025_Q15",
+        "question_text": "What are environmental pressure groups? Discuss their role in raising awareness, influencing policies and advocating for environmental protection in India.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS3_T14"]
+      },
+      {
+        "question_id": "GS2_2025_Q16",
+        "question_text": "Inequality in the ownership pattern of resources is one of the major causes of poverty. Discuss in the context of ‘paradox of poverty’.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T14"]
+      },
+      {
+        "question_id": "GS2_2025_Q17",
+        "question_text": "“In contemporary development models, decision-making and problem-solving responsibilities are not located close to the source of information and execution defeating the objectives of development.” Critically evaluate.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T11"]
+      },
+      {
+        "question_id": "GS2_2025_Q18",
+        "question_text": "The National Commission for Protection of Child Rights has to address the challenges faced by children in the digital era. Examine the existing policies and suggest measures the Commission can initiate to tackle the issue.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T12"]
+      },
+      {
+        "question_id": "GS2_2025_Q19",
+        "question_text": "“Energy security constitutes the dominant kingpin of India’s foreign policy, and is linked with India’s overarching influence in Middle Eastern countries.” How would you integrate energy security with India’s foreign policy trajectories in the coming years?",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T19"]
+      },
+      {
+        "question_id": "GS2_2025_Q20",
+        "question_text": "“The reform process in the United Nations remains unresolved, because of the delicate imbalance of East and West and entanglement of the USA vs. Russo-Chinese alliance.” Examine and critically evaluate the East-West policy confrontations in this regard.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T20"]
+      },
+      {
+        "question_id": "GS3_2025_Q01",
+        "question_text": "Distinguish between the Human Development Index (HDI) and the Inequality-adjusted Human Development Index (IHDI) with special reference to India. Why is the IHDI considered a better indicator of inclusive growth?",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T2"]
+      },
+      {
+        "question_id": "GS3_2025_Q02",
+        "question_text": "What are the challenges before the Indian economy when the world is moving away from free trade and multilateralism to protectionism and bilateralism? How can these challenges be met?",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T1"]
+      },
+      {
+        "question_id": "GS3_2025_Q03",
+        "question_text": "Explain the factors influencing the decision of the farmers on the selection of high value crops in India.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T4"]
+      },
+      {
+        "question_id": "GS3_2025_Q04",
+        "question_text": "Elaborate the scope and significance of supply chain management of agricultural commodities in India.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T6"]
+      },
+      {
+        "question_id": "GS3_2025_Q05",
+        "question_text": "The fusion energy programme in India has steadily evolved over the past few decades. Mention India’s contributions to the international fusion energy project – International Thermonuclear Experimental Reactor (ITER). What will be the implications of the success of this project for the future of global energy?",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T11"]
+      },
+      {
+        "question_id": "GS3_2025_Q06",
+        "question_text": "How can India achieve energy independence through clean technology by 2047? How can biotechnology play a crucial role in this endeavour?",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T11"]
+      },
+      {
+        "question_id": "GS3_2025_Q07",
+        "question_text": "What is Carbon Capture, Utilization and Storage (CCUS)? What is the potential role of CCUS in tackling climate change?",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T14"]
+      },
+      {
+        "question_id": "GS3_2025_Q08",
+        "question_text": "Seawater intrusion in the coastal aquifers is a major concern in India. What are the causes of seawater intrusion and the remedial measures to combat this hazard?",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T14"]
+      },
+      {
+        "question_id": "GS3_2025_Q09",
+        "question_text": "Terrorism is a global scourge. How has it manifested in India? Elaborate with contemporary examples. What are the counter measures adopted by the State? Explain.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T16", "GS3_T17"]
+      },
+      {
+        "question_id": "GS3_2025_Q10",
+        "question_text": "The Government of India recently stated that Left Wing Extremism (LWE) will be eliminated by 2026. What do you understand by LWE and how are the people affected by it? What measures have been taken by the government to eliminate LWE?",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T16"]
+      },
+      {
+        "question_id": "GS3_2025_Q11",
+        "question_text": "Explain how the Fiscal Health Index (FHI) can be used as a tool for assessing the fiscal performance of states in India. In what way would it encourage the states to adopt prudent and sustainable fiscal policies?",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T1", "GS3_T3"]
+      },
+      {
+        "question_id": "GS3_2025_Q12",
+        "question_text": "Discuss the rationale of the Production Linked Incentive (PLI) scheme. What are its achievements? In what way can the functioning and outcomes of the scheme be improved.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T1"]
+      },
+      {
+        "question_id": "GS3_2025_Q13",
+        "question_text": "Examine the factors responsible for depleting groundwater in India. What are the steps taken by the government to mitigate such depletion of groundwater?",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T14"]
+      },
+      {
+        "question_id": "GS3_2025_Q14",
+        "question_text": "Examine the scope of the food processing industries in India. Elaborate the measures taken by the government in the food processing industries for generating employment opportunities.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T6"]
+      },
+      {
+        "question_id": "GS3_2025_Q15",
+        "question_text": "How does nanotechnology offer significant advancements in the field of agriculture? How can this technology help to uplift the socio-economic status of farmers?",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T13"]
+      },
+      {
+        "question_id": "GS3_2025_Q16",
+        "question_text": "India aims to become a semiconductor manufacturing hub. What are the challenges faced by the semiconductor industry in India? Mention the salient features of the India Semiconductor Mission.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T13"]
+      },
+      {
+        "question_id": "GS3_2025_Q17",
+        "question_text": "Mineral resources are fundamental to the country’s economy and these are exploited by mining. Why is mining considered an environmental hazard? Explain the remedial measures required to reduce the environmental hazard due to mining.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T14"]
+      },
+      {
+        "question_id": "GS3_2025_Q18",
+        "question_text": "Write a review on India’s climate commitments under the Paris Agreement (2015) and mention how these have been further strengthened in COP26 (2021). In this direction, how has the first Nationally Determined Contribution intended by India been updated in 2022?",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T14"]
+      },
+      {
+        "question_id": "GS3_2025_Q19",
+        "question_text": "What are the major challenges to internal security and peace process in the North-Eastern States? Map the various peace accords and agreements initiated by the government in the past decade.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T16", "GS3_T19"]
+      },
+      {
+        "question_id": "GS3_2025_Q20",
+        "question_text": "Why is maritime security vital to protect India’s sea trade? Discuss maritime and coastal security challenges and the way forward.",
+        "year": 2025,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T19", "GS3_T20"]
+      },
+      {
+        "question_id": "GS4_2025_Q01a",
+        "question_text": "In the present digital age, social media has revolutionised our way of communication and interaction. However, it has raised several ethical issues and challenges. Describe the key ethical dilemmas in this regard.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1", "GS4_T4"]
+      },
+      {
+        "question_id": "GS4_2025_Q01b",
+        "question_text": "“Constitutional morality is not a natural sentiment but a product of civil education and adherence of the rule of law.” Examine the significance of constitutional morality for public servant highlighting the role in promoting good governance and ensuring accountability in public administration.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T6"]
+      },
+      {
+        "question_id": "GS4_2025_Q02a",
+        "question_text": "Carl von Clausewitz once said, “War is a diplomacy by other means.” Critically analyse the above statement in the present context of contemporary geo-political conflict.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1"]
+      },
+      {
+        "question_id": "GS4_2025_Q02b",
+        "question_text": "Keeping the national security in mind, examine the ethical dilemmas related to controversies over environmental clearance of development projects in ecologically sensitive border areas in the country.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1", "GS3_T15"]
+      },
+      {
+        "question_id": "GS4_2025_Q03a",
+        "question_text": "“Those who in trouble untroubled are, Will trouble trouble itself.” – Thiruvalluvar",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T5"]
+      },
+      {
+        "question_id": "GS4_2025_Q03b",
+        "question_text": "“The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.” – William James",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T5"]
+      },
+      {
+        "question_id": "GS4_2025_Q03c",
+        "question_text": "“The strength of a society is not in its laws, but in the morality of its people.” – Swami Vivekananda",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T5"]
+      },
+      {
+        "question_id": "GS4_2025_Q04a",
+        "question_text": "“For any kind of social re-engineering by successfully implementing welfare schemes, a civil servant must use reason and critical thinking in an ethical framework.” Justify this statement with suitable examples.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T6"]
+      },
+      {
+        "question_id": "GS4_2025_Q04b",
+        "question_text": "What are the major teachings of Mahavir? Explain their relevance in the contemporary world.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T5"]
+      },
+      {
+        "question_id": "GS4_2025_Q05a",
+        "question_text": "“One who is devoted to one’s duty attains highest perfection in life.” Analyse this statement with reference to sense of responsibility and personal fulfilment as a civil servant.",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T3"]
+      },
+      {
+        "question_id": "GS4_2025_Q05b",
+        "question_text": "To achieve holistic development goal, a civil servant acts as an enabler and active facilitator of growth rather than a regulator. What specific measures will you suggest to achieve this goal?",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T6"]
+      },
+      {
+        "question_id": "GS4_2025_Q06a",
+        "question_text": "It is said that for an ethical work culture, there must be code of ethics in place in every organisation. To ensure value-based and compliance-based work culture, what suitable measures would you adopt in your work place?",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T7"]
+      },
+      {
+        "question_id": "GS4_2025_Q06b",
+        "question_text": "India is an emerging economic power of the world as it has recently secured the status of fourth largest economy of the world as per IMF projection. However, it has been observed that in some sectors, allocated funds remain either under-utilised or misutilised. What specific measures would you recommend for ensuring accountability in this regard to stop leakages and gaining the status of third largest economy of the world in near future?",
+        "year": 2025,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T7", "GS4_T6"]
+      },
+      {
+        "question_id": "GS4_2025_Q07",
+        "question_text": "Case Study: Vijay was Deputy Commissioner of remote district of Hilly Northern State of the country for the last two years. In the month of August heavy rains lashed the complete state followed by cloud burst in the upper reaches of the said district. The damage was very heavy in the complete state especially in the affected district. The complete road network and telecommunication were disrupted and the buildings were damaged extensively. People’s houses have been destroyed and they were forced to stay in open. More than 200 people have been killed and about 5000 were badly injured. The Civil Administration under Vijay got activated and started conducting rescue and relief operations. Temporary shelter camps and hospitals were established to provide shelter and medical facilities to the homeless and injured people. Helicopter services were pressed in, for evacuating sick and old people from remote areas. Vijay got a message from his hometown in Kerala that his mother was seriously sick. After two days Vijay received the unfortunate message that his mother has expired. Vijay has no close relative except one elder sister who was US citizen and staying there for last several years. In the meantime, the situation in the affected district deteriorated further due to resumption of heavy rains after a gap of five days. At the same time, continuous messages were coming on his mobile from his hometown to reach at the earliest for performing last rites of his mother. (a) What are the options available with Vijay? (b) What are the ethical dilemma being faced by Vijay? (c) Critically evaluate and examine each of these options identified by Vijay. (d) Which of the options, do you think, would be most appropriate for Vijay to adopt and why?",
+        "year": 2025,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1", "GS4_T7"]
+      },
+      {
+        "question_id": "GS4_2025_Q08",
+        "question_text": "Case Study: In line with the Directive Principles of State Policy enshrined in the Indian Constitution, the government has a constitutional obligation to ensure basic needs – “Roti, Kapda aur Makan (Food, Clothes and Shelter)” – for the under-privileged. Pursuing this mandate, the district administration proposed clearing a portion of forest land to develop housing for the homeless and economically weaker sections of the society. The proposed land, however, is an ecologically sensitive zone densely populated with age-old trees, medicinal plants and vital biodiversity. Besides, these forests help to regulate micro-climate and rainfalls; provide habitat for wildlife, support soil fertility and prevent land/soil erosion and sustain livelihoods of tribal and nomadic communities. Inspite of the ecological and social costs, the administration argues in favour of the said proposal by highlighting that this very initiative would provide housing to human rights as a critical welfare priority. Besides it, it fulfils the government’s duty to uplift and empower the poor through inclusive housing development. Further, these forest areas have become unsafe due to wild-animal threats and recurring human-wild life conflicts. Lastly, clearing forest-zones may help to curb anti-social elements allegedly using these areas as hideouts, thereby enhancing law and order. (a) Can deforestation be ethically justified in the pursuit of social welfare objectives like, housing for the homeless? (b) What are the socio-economic, administrative and ethical challenges in balancing environmental conservation with human development? (c) What substantial alternatives or policy interventions can be proposed to ensure that both environmental integrity and human dignity are protected?",
+        "year": 2025,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1", "GS3_T14"]
+      },
+      {
+        "question_id": "GS4_2025_Q09",
+        "question_text": "Case Study: Subash is Secretary, PWD in the State Government. He is a senior officer, known for his competence, integrity and dedication to work. He enjoys the trust and confidence of Minister Incharge of PWD and Programme Implementation. As a part of his job profile, he is responsible for policy formulation, execution of projects relating to infrastructure initiatives in the State. Besides, he oversees the technical and administrative aspects relating to planning, designing and construction etc. Subash’s Minister is an important Minister in the state and significant growth in urban infrastructure development and road network has been registered during his tenure. He is very keen for launching of ambitious road construction project in the near future. Subash is in regular touch with the Minister and is working various modalities of road construction project. Regular meetings, interactions and presentations are made by him to the Minister before a formal public announcement of the project is made by the Minister. Subash’s only son Vikas is in real estate business. His son from his own sources is aware that a mega road project is on the anvil and announcement in this regard is expected anytime. He is very keen to know from his father the exact location of the upcoming project. He knows that there would be quantum jump in the prices of land at the proposed location. Buying land at this stage at cheaper prices would pay him rich dividends. He is pleading with him (his father) day in and day out to share him location of the proposed project. He assured him that he would handle the matter discreetly as it would not attract any adverse notice as he in the normal course, keeps on buying land as a part of his business. He feels pressurised because of constant pleadings by his son. Another significant aspect of the matter pertained to the extra/undue interest in the above project by the Minister PWD. His nephew was also having big infrastructure project company. In fact, the Minister has also introduced his nephew to him and indicated to him to take care of his nephew’s business interest in the forthcoming project. The Minister encouraged him to act fast in the matter as early announcement and execution of mega road project would enhance his status in the party and public life. In the above backdrop, Subash is in a fix as to the future course of action. (a) Discuss the ethical issues involved in the case. (b) Critically examine the options available to Subash in the above situation. (c) Which of the above would be most appropriate and why?",
+        "year": 2025,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1", "GS4_T7"]
+      },
+      {
+        "question_id": "GS4_2025_Q10",
+        "question_text": "Case Study: Rajesh is a Group A officer with nine years of service. He is posted as Administrative Officer in an Oil Public Sector undertaking. As an Administrative Officer he is responsible for managing and coordinating various administrative tasks to ensure smooth functioning of office. He also manages office supplies, equipment etc. Rajesh is now sufficient senior and is expecting his next promotion in JAG (Junior Administrative Grade) in the next one or two years. He knows that promotion is based on examination of ACRs/Performance Appraisal of last few years (5 years or so) of an officer by a DPC (Departmental Promotion Committee) and an officer lacking requisite grading of ACRs may not be found fit for promotion. Consequences of losing promotion may entail financial and reputational loss and set-back for career progression. Though he also puts his best efforts in official discharge of his duties, yet he is unsure of assessment by his superior officer. He is now putting extra efforts so that he gets thumping report at the end of financial year. As Administrative Officer, Rajesh is regularly interacting with his immediate boss, who is his reporting officer for writing his ACR. One day he calls Rajesh and wants him to buy computer-related stationery on priority from a particular vendor. Rajesh instructs his office to initiate action for procuring these items. During the day, the dealing Assistant brings an estimate of Rupees Thirty Five Lakhs covering all stationery items from the same vendor. It is noticed that as per delegated financial powers, as provided in the GFR (General Financial Rules) as applicable in that Organisation, expenditure for office items exceeding Rupees Thirty Lakhs requires sanction of the next higher authority (boss in the present case). Rajesh knows that immediate superior would expect all these purchases should be done at his level and may not appreciate such lack of initiative on his part. During discussions with office, he learns that common practice of splitting of expenditure (where large order is divided into a series of smaller ones) is followed to avoid obtaining sanction from higher authority. This practice is against the rules and may come to the adverse notice of Audit. Rajesh is perturbed. He is unsure of taking decision in the matter. (a) What are the options available with Rajesh in the above situation? (b) What are the ethical issues involved in this case? (c) Which would be the most appropriate option for Rajesh and why?",
+        "year": 2025,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1", "GS4_T7"]
+      },
+      {
+        "question_id": "GS4_2025_Q11",
+        "question_text": "Case Study: Mahatma Gandhi National Rural Employment Guarantee Program, MGNREGA was earlier known as National Rural Employment Scheme, NREGA. It is an Indian Social Welfare Program that aimed at fulfilling the ‘Right to Work’ provisions made in the Constitution. MGNREGA was launched in 2006 under Rural Employment Sector by the Ministry of Rural Development. Main objective of the program is to give legal guarantee of wage employment to the adult members of rural households who are willing to do unskilled manual labour work subject to a maximum of 100 days per year for every household. Every rural household has the right to register under the scheme, job card is issued to the registered, Job Card holder can seek employment; State Government shall pay 25% of minimum wage for the first 30 days as compensatory daily unemployment allowance to the families and of wage for remaining period of the year. MGNREGA work was undertaken by various Gram Panchayats. You have been appointed as an Administrator Incharge of the District. You have been given the responsibility of monitoring MGNREGA work undertaken by various Gram Panchayats. You are also given the authority to give technical sanctions to all MGNREGA works. In one of the Panchayats in your jurisdiction, you notice that your predecessor has mismanaged the Program in terms of: (i) Money not disbursed to actual job-seekers. (ii) Muster Rolls of the Labourers not properly maintained. (iii) Mismatch between the work done and payments made. (iv) Payments made to fictitious persons. (v) Job Cards were given without looking into the need of person. (vi) Mismanagement of funds and to the extent of siphoning of funds. (vii) Approved works that never existed. (a) What is your reaction to the above situation and how do you restore the proper functioning of MGNREGA Program in this regard? (b) What actions would you initiate, to solve the various issues listed above? (c) How would you deal with the above situation?",
+        "year": 2025,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS2_T12", "GS4_T6"]
+      },
+      {
+        "question_id": "GS4_2025_Q12",
+        "question_text": "Case Study: Ashok is Divisional Commissioner of one of the border districts of the North East State. A few years back, Military has taken over the neighbouring country after overthrowing the elected civil government. Civil war situation is prevailing in the country especially in last two years. However, internal situation further deteriorated due to rebel groups taking over control of certain populated areas near own border. Due to intense fight between military and rebel groups, civilian casualties has increased manifold in recent past. In the meantime, in one night Ashok got information from the local police guarding the border check post that there are about 200-250 people mainly women and children trying to cross over to our side of the border. There are also about 10 soldiers with their weapons in military uniform part of this group who wants to cross over. Women and Children are also crying and begging for help. A few of them are injured and bleeding profusely need immediate medical care. Ashok tried to contact Home Secretary of the State but failed to do so due to poor connectivity mainly due to inclement weather. (a) What are the options available with Ashok to cope with the situation? (b) What are the ethical and legal dilemmas being faced by Ashok? (c) Which of the options, do you think would be more appropriate for Ashok to adopt and why? (d) In the present situation, what are the extra precautionary measures to be taken by the Border Guarding Police in dealing with soldiers in uniform?",
+        "year": 2025,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS3_T16", "GS4_T1"]
+      },
+      {
+        "question_id": "GS1_2024_Q01",
+        "question_text": "Underline the changes in the field of society and economy from the Rig Vedic to the later Vedic period.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T6"]
+      },
+      {
+        "question_id": "GS1_2024_Q02",
+        "question_text": "Estimate the contribution of Pallavas of Kanchi for the development of art and literature of South India.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T1"]
+      },
+      {
+        "question_id": "GS1_2024_Q03",
+        "question_text": "What were the events that led to the Quit India Movement? Point out its results.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T3"]
+      },
+      {
+        "question_id": "GS1_2024_Q04",
+        "question_text": "What is sea surface temperature rise? How does it affect the formation of tropical cyclones?",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T12"]
+      },
+      {
+        "question_id": "GS1_2024_Q05",
+        "question_text": "Why do large cities tend to attract more migrants than smaller towns? Discuss in the light of conditions in developing countries.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T6", "GS1_T7"]
+      },
+      {
+        "question_id": "GS1_2024_Q06",
+        "question_text": "What is the phenomenon of ‘cloudbursts’? Explain.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T12"]
+      },
+      {
+        "question_id": "GS1_2024_Q07",
+        "question_text": "What is the concept of a ‘demographic winter’? Is the world moving towards such a situation? Elaborate.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T6"]
+      },
+      {
+        "question_id": "GS1_2024_Q08",
+        "question_text": "Distinguish between gender equality, gender equity and women’s empowerment. Why is it important to take gender concerns into account in programme design and implementation?",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T7"]
+      },
+      {
+        "question_id": "GS1_2024_Q09",
+        "question_text": "Intercaste marriages between castes which have socio-economic parity have increased, to some extent, but this is less true of interreligious marriages. Discuss.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T6", "GS1_T9"]
+      },
+      {
+        "question_id": "GS1_2024_Q10",
+        "question_text": "In dealing with socio-economic Issues of development, what kind of collaboration between government, NGOs and private sector would be most productive?",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS2_T11"]
+      },
+      {
+        "question_id": "GS1_2024_Q11",
+        "question_text": "“Though the great Cholas are no more yet their name is still remembered with great pride because of their highest achievements in the domain of art and architecture”. Comment.",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T1"]
+      },
+      {
+        "question_id": "GS1_2024_Q12",
+        "question_text": "How far is it correct to say that the First World War was fought essentially for the preservation of balance of power?",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T5"]
+      },
+      {
+        "question_id": "GS1_2024_Q13",
+        "question_text": "How far was the Industrial Revolution in England responsible for the decline of handicrafts and cottage industries in India?",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T5"]
+      },
+      {
+        "question_id": "GS1_2024_Q14",
+        "question_text": "The groundwater potential of the gangetic valley is on a serious decline. How may it affect the food security of India?",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T14", "GS3_T14"]
+      },
+      {
+        "question_id": "GS1_2024_Q15",
+        "question_text": "What are aurora australis and aurora borealis? How are these triggered?",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T12"]
+      },
+      {
+        "question_id": "GS1_2024_Q16",
+        "question_text": "What is a twister? Why are the majority of twisters observed in areas around the Gulf of Mexico?",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T12"]
+      },
+      {
+        "question_id": "GS1_2024_Q17",
+        "question_text": "What is regional disparity How does it differ from diversity? How serious is the issue of regional disparity in India?",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T6", "GS1_T9"]
+      },
+      {
+        "question_id": "GS1_2024_Q18",
+        "question_text": "Despite comprehensive policies for equity and social justice, underprivileged sections are not yet getting the full benefits of affirmative action envisaged by the Constitution. Comment.",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS2_T12", "GS1_T9"]
+      },
+      {
+        "question_id": "GS1_2024_Q19",
+        "question_text": "Globalization has increased urban migration by skilled, young, unmarried women from various classes. How has this trend impacted upon their personal freedom and relationship with family?",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T7", "GS1_T8"]
+      },
+      {
+        "question_id": "GS1_2024_Q20",
+        "question_text": "Critically analyse the proposition that there is a high correlation between India’s cultural diversities and socio-economic marginalities.",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T6", "GS1_T9"]
+      },
+      {
+        "question_id": "GS2_2024_Q01",
+        "question_text": "Examine the need for electoral reforms as suggested by various committees with particular reference to “one nation – one election” principle.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T7"]
+      },
+      {
+        "question_id": "GS2_2024_Q02",
+        "question_text": "Explain and distinguish between Lok Adalats And Arbitration Tribunals. Whether they entertain civil as well as criminal cases?",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T3", "GS2_T9"]
+      },
+      {
+        "question_id": "GS2_2024_Q03",
+        "question_text": "“The growth of cabinet system has practically resulted in the marginalisation of the parliamentary supremacy:” Elucidate.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T5"]
+      },
+      {
+        "question_id": "GS2_2024_Q04",
+        "question_text": "“The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its propriety.” Comment.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T3"]
+      },
+      {
+        "question_id": "GS2_2024_Q05",
+        "question_text": "Analyse the role of local bodies in providing good governance at local level and bring out the pros and cons merging the rural local bodies with the urban local bodies.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T2"]
+      },
+      {
+        "question_id": "GS2_2024_Q06",
+        "question_text": "Public charitable trusts have the potential to make India’s development more inclusive as they relate to certain vital public issues. Comment.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T11"]
+      },
+      {
+        "question_id": "GS2_2024_Q07",
+        "question_text": "Poverty and malnutrition create a vicious cycle, adversely affecting human capital formation. What steps can be taken to break the cycle?",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T13", "GS2_T14"]
+      },
+      {
+        "question_id": "GS2_2024_Q08",
+        "question_text": "The Doctrine of Democratic Governance makes it necessary that the public perception of the integrity and commitment of civil servants becomes absolutely positive. Discuss.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T16"]
+      },
+      {
+        "question_id": "GS2_2024_Q09",
+        "question_text": "‘The West is fostering India as an alternative to reduce dependence on China’s supply chain and as a strategically to counter China’s political and economic dominance.” Explain this statement with examples.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T19", "GS2_T18"]
+      },
+      {
+        "question_id": "GS2_2024_Q10",
+        "question_text": "Critically analyse India’s evolving diplomatic, economic and strategic relations with the Central Asian Republics (CARs) highlighting their increasing significance in regional and global geopolitics.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T19"]
+      },
+      {
+        "question_id": "GS2_2024_Q11",
+        "question_text": "What are the aims and objects of recently passed and enforced, The Public Examination (Prevention of Unfair Means) Act, 2024? Whether University/State Education Board examinations, too, are covered under the Act?",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T12"]
+      },
+      {
+        "question_id": "GS2_2024_Q12",
+        "question_text": "Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 of the constitution. Explain. In this reference discuss the law relating to D.N.A. testing of child in the womb to establish its paternity.",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T9"]
+      },
+      {
+        "question_id": "GS2_2024_Q13",
+        "question_text": "What changes has the Union Government recently introduced in the domain of Centre-Stare relations? Suggest measures to be adopted to build the trust between the Centre and the States and for strengthening federalism.",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T2"]
+      },
+      {
+        "question_id": "GS2_2024_Q14",
+        "question_text": "Explain the reasons for the growth of public interest litigation in India. As a result of it, has the Indian Supreme Court emerged as the world’s most powerful judiciary ?",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T3"]
+      },
+      {
+        "question_id": "GS2_2024_Q15",
+        "question_text": "Discuss India as a secular state and compare with the secular principles of the US constitution.",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS1_T9", "GS2_T4"]
+      },
+      {
+        "question_id": "GS2_2024_Q16",
+        "question_text": "The Citizens’ charter has been a landmark initiative in ensuring citizen-centric administration. But it is yet to reach its full potential. Identify the factors hindering the realisation of its promise and suggest measures to overcome them.",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T15"]
+      },
+      {
+        "question_id": "GS2_2024_Q17",
+        "question_text": "In a crucial domain like the public healthcare system the Indian State should play a vital role to contain the adverse impact of marketisation of the system. Suggest some measures through which the State can enhance the reach of public healthcare at the grassroots level.",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T13"]
+      },
+      {
+        "question_id": "GS2_2024_Q18",
+        "question_text": "e-governance is not just about the routine application of digital technology in service delivery process. It is as much about multifarious interactions for ensuring transparency and accountability. In this context evaluate the role of the ‘Interactive Service Model’ of e-governance.",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T15"]
+      },
+      {
+        "question_id": "GS2_2024_Q19",
+        "question_text": "‘Terrorism has become a significant threat to global peace and security.’ Evaluate the effectiveness of the United Nations Security Council’s Counter Terrorism Committee (CTC and its associated bodies in addressing and mitigating this threat at the international level.",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS3_T16", "GS2_T20"]
+      },
+      {
+        "question_id": "GS2_2024_Q20",
+        "question_text": "Discuss the geopolitical and geostrategic importance of Maldives for India with a focus on global trade and/energy flows. Further also discuss how this relationship affects India’s maritime security and regional stability amidst international competition?",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T19", "GS3_T19"]
+      },
+      {
+        "question_id": "GS3_2024_Q01",
+        "question_text": "Examine the (pattern) and trend of public expenditure on social services in the post-reforms period in India. To what extent this has been in consonance with achieving the objective of inclusive growth?",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T1", "GS3_T2"]
+      },
+      {
+        "question_id": "GS3_2024_Q02",
+        "question_text": "What are the causes of persistent high food inflation in India? Comment on the effectiveness of the monetary policy of the RBI to control this type of inflation.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T1"]
+      },
+      {
+        "question_id": "GS3_2024_Q03",
+        "question_text": "What were the factors responsible for the successful implementation of land reforms in some parts of the country? Elaborate.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T7"]
+      },
+      {
+        "question_id": "GS3_2024_Q04",
+        "question_text": "Explain the role of millets for ensuring health and nutritional security in India.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T4"]
+      },
+      {
+        "question_id": "GS3_2024_Q05",
+        "question_text": "What is the present world scenario of intellectual property rights with respect to life materials? Although, India is second in the world to file patents, still only a few have been commercialized. Explain the reasons behind this less commercialization.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T13"]
+      },
+      {
+        "question_id": "GS3_2024_Q06",
+        "question_text": "What is the technology being employed for electronic toll collection on highways? What are its advantages and limitations? What are the proposed changes that will make this process seamless? Would this transition carry any potential hazards?",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T11"]
+      },
+      {
+        "question_id": "GS3_2024_Q07",
+        "question_text": "Industrial pollution of river water is a significant environmental issue in India. Discuss the various mitigation measures to deal with this problem and also the government’s initiatives in this regard.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T14"]
+      },
+      {
+        "question_id": "GS3_2024_Q08",
+        "question_text": "What role do Environmental NGOs and activists play in influencing Environmental Impact Assessment (DIA)outcomes for major projects in India? Cite Tour examples with all important details.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T14"]
+      },
+      {
+        "question_id": "GS3_2024_Q09",
+        "question_text": "Explain how narco-terrorism has emerged as a serious threat across the country. Suggest suitable measures to counter narco-terrorism.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T16"]
+      },
+      {
+        "question_id": "GS3_2024_Q10",
+        "question_text": "Describe the context and salient features of the Digital Personal Data Protection Act, 2023.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T13"]
+      },
+      {
+        "question_id": "GS3_2024_Q11",
+        "question_text": "Discuss the merits and demerits of the four ‘Labour Codes’ in the context of labour market reforms in India. What has been the progress so far in this regard?",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T1"]
+      },
+      {
+        "question_id": "GS3_2024_Q12",
+        "question_text": "What is the need for expanding the regional air connectivity in India? In this context, discuss the government’s UDAN Scheme and its achievements.",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T9"]
+      },
+      {
+        "question_id": "GS3_2024_Q13",
+        "question_text": "What are the major challenges faced by the Indian irrigation system in recent times? State the measures taken by the government for efficient irrigation management.",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T14"]
+      },
+      {
+        "question_id": "GS3_2024_Q14",
+        "question_text": "Elucidate the importance of buffer stocks for stabilizing agricultural prices in India. What are the challenges associated with the storage of buffer stock? Discuss.",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T5"]
+      },
+      {
+        "question_id": "GS3_2024_Q15",
+        "question_text": "The world is facing an acute shortage of clean and safe freshwater. What are the alternative technologies which can solve this crisis? Briefly discuss any three such technologies citing their key merits and demerits.",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T14"]
+      },
+      {
+        "question_id": "GS3_2024_Q16",
+        "question_text": "What are asteroids? How real is the threat of them causing extinction of life? What strategies have been developed to prevent such a catastrophe?",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS1_T12"]
+      },
+      {
+        "question_id": "GS3_2024_Q17",
+        "question_text": "What is disaster resilience? How is it determined? Describe various elements of a resilience framework. Also mention the global targets of Sendai Framework for Disaster Risk Reduction (2015-2030).",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T15"]
+      },
+      {
+        "question_id": "GS3_2024_Q18",
+        "question_text": "Flooding in urban areas is an emerging climate-induced disaster. Discuss the causes of this disaster. Mention the features of two such major floods in the last two decades in India. Describe the policies and frameworks in India that aim at tackling such floods.",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T15"]
+      },
+      {
+        "question_id": "GS3_2024_Q19",
+        "question_text": "India has a long and troubled border with China and Pakistan fraught with contentious issues. Examine the conflicting issues and security challenges along the border. Also give out the development being undertaken in these areas under the Border Area Development Programme (BADP) and Border Infrastructure and Management (BIM) Scheme.",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T16", "GS3_T20"]
+      },
+      {
+        "question_id": "GS3_2024_Q20",
+        "question_text": "Social media and encrypting messaging services pose a serious security challenge. What measures have been adopted at various levels to address the security implications of social media? Also suggest any other remedies to address the problem.",
+        "year": 2024,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T18"]
+      },
+      {
+        "question_id": "GS4_2024_Q01a",
+        "question_text": "The application of Artificial Intelligence as a dependable source of input for administrative rational decision-making is a debatable issue. Critically examine the statement from the ethical point of view.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1"]
+      },
+      {
+        "question_id": "GS4_2024_Q01b",
+        "question_text": "“Ethics encompasses several key dimensions that are crucial in guiding individuals and organizations towards morally responsible behaviour.” Explain the key dimensions of ethics that influence human actions. Discuss how these dimensions shape ethical decision-making in the professional context.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1"]
+      },
+      {
+        "question_id": "GS4_2024_Q02a",
+        "question_text": "“It is not enough to talk about peace, one must believe in it; and it is not enough to believe in it, one must act upon it.” In the present context, the major weapon industries of the developed nations are adversely influencing continuation of number of wars for their own self-interest, all around the world. What are the ethical considerations of the powerful nations in today’s international arena to stop continuation of ongoing conflicts?",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1"]
+      },
+      {
+        "question_id": "GS4_2024_Q02b",
+        "question_text": "Global warming and climate change are the outcomes of human greed in the name of development, indicating the direction in which extinction of organisms including human beings is heading towards loss of life on Earth. How do you put an end to this to protect life and bring equilibrium between the society and the environment?",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1", "GS3_T14"]
+      },
+      {
+        "question_id": "GS4_2024_Q03a",
+        "question_text": "“Learn everything that is good from others, but bring it in, and in your own way absorb it, do not become others.” — Swami Vivekananda",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T5"]
+      },
+      {
+        "question_id": "GS4_2024_Q03b",
+        "question_text": "“Faith is of no avail in the absence of strength. Faith and strength, both are essential to accomplish any great work.” — Sardar Patel",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T5"]
+      },
+      {
+        "question_id": "GS4_2024_Q03c",
+        "question_text": "“In law, a man is guilty when he violates the rights of others. In ethics, he is guilty if he only thinks of doing so.” — Immanuel Kant",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T5"]
+      },
+      {
+        "question_id": "GS4_2024_Q04a",
+        "question_text": "“The concept of Just and Unjust is contextual. What was just a year back, may turn out to be unjust in today’s context. Changing context should be constantly under scrutiny to prevent miscarriage of justice.” Examine the above statement with suitable examples.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1"]
+      },
+      {
+        "question_id": "GS4_2024_Q04b",
+        "question_text": "“Mindless addiction to Form, ignoring the Substance of the matter, results in rendering of injustice. A perceptive civil servant is one who ignores such literalness and carries out true intent.” Examine the above statement with suitable illustrations.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1"]
+      },
+      {
+        "question_id": "GS4_2024_Q05a",
+        "question_text": "‘The ‘Code of Conduct’ and ‘Code of Ethics’ are the sources of guidance in public administration. There is code of conduct already in operation, whereas code of ethics is not yet put in place. Suggest a suitable model for code of ethics to maintain integrity, probity and transparency in governance.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T7"]
+      },
+      {
+        "question_id": "GS4_2024_Q05b",
+        "question_text": "The soul of the new law, Bharatiya Nyaya Sanhita (BNS) is Justice, Equality and Impartiality based on Indian culture and ethos. Discuss this in the light of major shift from a doctrine of punishment to justice in the present judicial system.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T6"]
+      },
+      {
+        "question_id": "GS4_2024_Q06a",
+        "question_text": "“In Indian culture and value system, an equal opportunity has been provided irrespective of gender identity. The number of women in public service has been steadily increasing over the years.” Examine the gender-specific challenges faced by female public servants and suggest suitable measures to increase their efficiency in discharging their duties and maintaining high standards of probity.",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS1_T7", "GS4_T6"]
+      },
+      {
+        "question_id": "GS4_2024_Q06b",
+        "question_text": "Mission Karmayogi is aiming for maintaining a very high standard of conduct and behaviour to ensure efficiency for serving citizens and in turn developing oneself. How will this scheme empower the civil servants in enhancing productive efficiency and delivering the services at the grassroots level ?",
+        "year": 2024,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T6"]
+      },
+      {
+        "question_id": "GS4_2024_Q07",
+        "question_text": "There is a technological company named ABC Incorporated which is the second largest worldwide, situated in the Third World. You are the Chief Executive Officer and the majority shareholder of this company. The fast technological improvements have raised worries among environmental activists, regulatory authorities, and the general public over the sustainability of this scenario. You confront substantial issues about the business’s environmental footprint. In 2023, your organization had a significant increase of 48% in greenhouse gas emissions compared to the levels recorded in 2019. The significant rise in energy consumption is mainly due to the surging energy requirements of your data centers, fuelled by the exponential expansion of Artificial Intelligence (AI). Al-powered services need much more computational resources and electrical energy compared to conventional online activities, notwithstanding their notable gains. The technology’s proliferation has led to a growing concern over the environmental repercussions, resulting in an increase in warnings. Al models, especially those used in extensive machine learning and data processing, exhibit much greater energy consumption than conventional computer tasks, with an exponential increase. Although there is already a commitment and goal to achieve net zero emissions by 2030, the challenge of lowering emissions seems overwhelming as the integration of Al continues to increase. To achieve this goal, substantial investments in renewable energy use would be necessary. The difficulty is exacerbated by the competitive environment of the technology sector, where rapid innovation is essential for preserving market standing and shareholders’ worth. To achieve a balance between innovation, profitability and sustainability, a strategic move is necessary that is in line with both, business objectives and ethical obligations. (a) What is your immediate response to the challenges posed in the above case? (b) Discuss the ethical issues involved in the above case. (c)Your company has been identified to be penalized by technological gaints. What logical and ethical arguments will you put forth convince about its necessity? (d) Being a conscience being, what measures would you adopt to maintain balance between AI innovation and environment footprint?",
+        "year": 2024,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1", "GS4_T6"]
+      },
+      {
+        "question_id": "GS4_2024_Q08",
+        "question_text": "Raman is a senior IPS officer and has recently been posted as D.G. of a state. Among the various issues and problems/challenges which needed his immediate attention, the issue relating to recruitment of unemployed youth by an unknown terrorist group, was a matter of grave concern. It was noted that unemployment was relatively high in the state. The problem of unemployment amongst graduates and those with higher education was much more grave. Thus they were vulnerable and soft targets.  Thus they were vulnerable and soft targets. Thus they were vulnerable and soft targets. Thus they were vulnerable and soft targets. Thus they were vulnerable and soft targets. Thus they were vulnerable and soft targets. Thus they were vulnerable and soft targets. Thus they were vulnerable and soft targets. Thus they were vulnerable and soft targets. Thus they were vulnerable and soft targets. Thus they were vulnerable and soft targets.",
+        "year": 2024,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS3_T16", "GS4_T1"]
+      },
+      {
+        "question_id": "GS4_2024_Q09",
+        "question_text": "With multipronged strategy of the Central and State Governments specially in the last few years, the naxalite problem has been resolved to a large extent in the affected states of the country. However, there are a few pockets in certain states where naxalite problem still persists, mainly due to involvement of foreign countries. Rohit is posted as SP (Special Operations) for the last one year, in one of the districts which is still affected by the naxalite problem. The district administration has taken a lot of developmental works in the recent past in the naxalite affected areas to win the hearts and minds of the people. Over a period of time, Rohit has established an excellent intelligence network to get the real time information regarding the movement of naxalite cadre. To instill confidence in the public and have moral ascendancy over the naxalites, a number of cordons and search operations are being conducted by the police. Rohit, who himself was leading one of the contingents got a message though his intelligence source that about ten hard core naxalites were hiding in a particular village with sophisticated weapons. Without wasting any time, Rohit reached the target village with his team and laid out a foolproof cordon and started carrying out a systematic search. During the search, his team managed to overpower all the naxalites along with their automatic weapons. However, in the meantime, more than five hundred tribal women surrounded the village and started marching towards the target house. They were shouting and demanding the immediate release of insurgents since they are their protectors and saviours. The situation on the ground was becoming very critical as the tribal women were extremely agitated and aggressive. Rohit tried to contact his superior officer, IG (Special Operations) of the state on the radio set and on mobile phone, but failed to do so due to poor connectivity Rohit was in great dilemma since out of the naxalites apprehended, two were not only hard core top insurgents with prize money of & ten lakhs on their heads, but were also involved in a recent ambush on the security forces. However, if he did not release the naxalites, the situation could get out of control since the tribal women were aggressively charging towards them. In that case, to control the situation Rohit might have to resort to firing which may lead to valuable loss of lives _of civilians and would further complicate the situation. (a)What are the options available with Rohit to cope with the situation? (b)What are the ethical dilemmas being faced by Rohit ? (c)Which of the options, do you think, would be more appropriate for Rohit to adopt and why? (d)In the present situation, what are the extra precautionary measures to be taken by the police in dealing with women protesters?",
+        "year": 2024,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS3_T16", "GS4_T1"]
+      },
+      {
+        "question_id": "GS4_2024_Q10",
+        "question_text": "Sneha is a Senior Manager working for a big reputed hospital chain in a mid-sized city. She has been made in-charge of the new super speciality center that the hospitals building with state-of-the art equipment and world class medical facilities. The building has been reconstructed and she is starting the process of procurement for various equipment and machines. As the head of the committee responsible for procurement, she has invited bids from all the interested reputed vendors dealing in medical equipment. She notices that her brother, who is a well-known supplier in this domain, has also sent his expression of interest. Since the hospital is privately owned, it is not mandatory for her to select only the lower bidder. Also, she is aware that her brother’s company has been facing some financial difficulties and a big supply order will help him recover. At the same time, allocating the contract to her brother might bring charges of favouritism against her and tarnish her image The hospital management trusts her fully and would support any decision of hers (a). What should be Sneha’s course of action ? (b). How would she justify what she chooses to do ? (c). In this case, how is medical ethics compromised with vested personal interest?",
+        "year": 2024,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T6"]
+      },
+      {
+        "question_id": "GS4_2024_Q11",
+        "question_text": "With the summer heat being exceptionally severe this year, the district has been facing severe water shortage. The District Collector has been mobilizing his subordinate officials to conserve the remaining water reserves for preventing the district from plunging into acute drinking water crisis. Along with an awareness campaign for conserving water, strict measures have been taken for stopping the over-exploitation of ground-water. Vigilance teams have been deployed to tour the villages and find the farmers who are drawing water from deep borewells or from the river reservoir for irrigation. The farmers are agitated by such action. A delegation of farmers meets the District Collector with their issues and complains that while they are not being allowed to irrigate their crops, big industries located near the river are drawing huge amounts of water through deep borewells for their industrial processes. The farmers allege that their administration is anti-farmer and corrupt, being bribed by the industry. The district needs to placate the farmers as they are threatening to go on a prolonged protest. At the same time, the District Collector has to deal with the water crisis. The industry cannot be closed as this would result in a large number of workers being unemployed. (a) Discuss all options available to the District Collector as a District Magistrate. (b) What suitable actions can be taken in view of mutually compatible interests of the stakeholders? (c) What are the potential administrative and ethical dilemmas for the District Collector ?",
+        "year": 2024,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS2_T10", "GS4_T1"]
+      },
+      {
+        "question_id": "GS4_2024_Q12",
+        "question_text": "Dr. Srinivasan is a senior scientist working for a reputed biotechnology company known for its cutting-edge research in pharmaceuticals. Dr. Srinivasan is heading a research team working on a new drug aimed at treating a rapidly spreading variant of a new viral infectious disease. The disease has been rapidly spreading across the world and the cases reported in the country are increasing. There is huge pressure on Dr. Srinivasan’s team to expedite the trials for the drug as there is significant market for it, and the company wants to get the first-mover advantage in the market. During a team meeting, some senior team members suggest some shortcut for expediting the clinical trials for the drug and for getting the requisite approvals. These include manipulating data to exclude some negative outcomes and selectively reporting positive results, foregoing the process of informed consent and using compounds already patented by a rival company, rather than developing one’s own component. Dr. Srinivasan is not comfortable taking such shortcuts, at the same time he realises meeting the targets is impossible without using these means. (a) What would you do in such a situation? (b) Examine your options and consequences in the light of the ethical questions involved. (c) How can data ethics and drug ethics save humanity at large in such a scenario?",
+        "year": 2024,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1"]
+      },
+      {
+        "question_id": "GS1_2023_Q01",
+        "question_text": "Explain the role of geographical factors towards the development of Ancient India.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS1_T1",
+          "GS1_T10",
+          "GS1_T11"
+        ]
+      },
+      {
+        "question_id": "GS1_2023_Q02",
+        "question_text": "What was the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards education and nationalism?",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS1_T2",
+          "GS1_T3"
+        ]
+      },
+      {
+        "question_id": "GS1_2023_Q03",
+        "question_text": "Bring out the socio-economic effects of the introduction of railways in different countries of the world.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS1_T5",
+          "GS1_T11"
+        ]
+      },
+      {
+        "question_id": "GS1_2023_Q04",
+        "question_text": "Discuss the consequences of climate change on the food security in tropical countries.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS3_T14",
+          "GS3_T4"
+        ]
+      },
+      {
+        "question_id": "GS1_2023_Q05",
+        "question_text": "Why is the world today confronted with a crisis of availability of and access to freshwater resources?",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS1_T11",
+          "GS3_T14"
+        ]
+      },
+      {
+        "question_id": "GS1_2023_Q06",
+        "question_text": "How are the fjords formed? Why do they constitute some of the most picturesque areas of the world?",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS1_T10",
+          "GS1_T12"
+        ]
+      },
+      {
+        "question_id": "GS1_2023_Q07",
+        "question_text": "Why is the South-West monsoon called ‘Purvaiya’ (easterly) in Bhojpur Region? How has this directional seasonal wind system influenced the cultural ethos of the region?",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS1_T10",
+          "GS1_T6"
+        ]
+      },
+      {
+        "question_id": "GS1_2023_Q08",
+        "question_text": "Do you think marriage as a sacrament in loosing its value in Modern India?",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS1_T6",
+          "GS1_T7"
+        ]
+      },
+      {
+        "question_id": "GS1_2023_Q09",
+        "question_text": "Explain why suicide among young women is increasing in Indian Society.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS1_T7"
+        ]
+      },
+      {
+        "question_id": "GS1_2023_Q10",
+        "question_text": "Child cuddling is now being replaced by mobile phones. Discuss its impact on the socialization of children.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS1_T6",
+          "GS1_T9"
+        ]
+      },
+      {
+        "question_id": "GS1_2023_Q11",
+        "question_text": "What are the main features of Vedic society and religion? Do you think some of the features are still prevailing in Indian society?",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS1_T1",
+          "GS1_T6"
+        ]
+      },
+      {
+        "question_id": "GS1_2023_Q12",
+        "question_text": "What were the major technological changes introduced during the Sultanate period? How did those technological changes influence the Indian society?",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS1_T2",
+          "GS1_T3"
+        ]
+      },
+      {
+        "question_id": "GS1_2023_Q13",
+        "question_text": "How did the colonial rule affect the tribals in India and what was the tribal response to the colonial oppression?",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS1_T3",
+          "GS1_T6"
+        ]
+      },
+      {
+        "question_id": "GS1_2023_Q14",
+        "question_text": "Comment on the resource potentials of the long coastline of India and highlight the status of natural hazard preparedness in these areas.",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS1_T9",
+          "GS1_T10"
+        ]
+      },
+      {
+        "question_id": "GS1_2023_Q15",
+        "question_text": "Identify and discuss the factors responsible for diversity of natural vegetation in India. Assess the significance of wildlife sanctuaries in rain forests regions of India.",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS1_T10"
+        ]
+      },
+      {
+        "question_id": "GS1_2023_Q16",
+        "question_text": "Why did human development fail to keep pace with economic development in India?",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS1_T6",
+          "GS3_T1"
+        ]
+      },
+      {
+        "question_id": "GS1_2023_Q17",
+        "question_text": "From being net food importer in 1960s, India has emerged as a net food exporter to the world. Provide reasons.",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS3_T4",
+          "GS3_T5"
+        ]
+      },
+      {
+        "question_id": "GS1_2023_Q18",
+        "question_text": "Does urbanization lead to more segregation and/or marginalization of the poor in Indian metropolises?",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS1_T7"
+        ]
+      },
+      {
+        "question_id": "GS1_2023_Q19",
+        "question_text": "Why is caste identity in India both fluid and static?",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS1_T6"
+        ]
+      },
+      {
+        "question_id": "GS1_2023_Q20",
+        "question_text": "Discuss the impact of post-liberal economy on ethnic identity and communalism.",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": [
+          "GS1_T8",
+          "GS1_T9"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q01",
+        "question_text": "“Constitutionally guaranteed judicial independence is a prerequisite of democracy”. Comment.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T3",
+          "GS2_T6"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q02",
+        "question_text": "Who are entitled to receive free legal aid? Assess the role of the National Legal Services Authority(NALSA) in rendering free legal aid in India.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T12",
+          "GS2_T13"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q03",
+        "question_text": "“The states in India seem reluctant to empower urban local bodies both functionally as well as financially.” Comment.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T2"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q04",
+        "question_text": "Compare and contrast the British and Indian approaches to Parliamentary sovereignty.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T4"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q05",
+        "question_text": "Discuss the role of Presiding Officers of state legislatures in maintaining order and impartiality in conducting legislative work and in facilitating best democratic practices.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T5"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q06",
+        "question_text": "The crucial aspect of development process has been the inadequate attention paid to Human Resource Development in India. Suggest measures that can address this adequacy.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T13"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q07",
+        "question_text": "Discuss the role of the Competition Commission of India in containing the abuse of dominant position by the Multi-National Corporations in India. Refer to the recent decisions.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T10"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q08",
+        "question_text": "e-governance, as a critical tool of governance, has ushered in effectiveness, transparency and accountability in governments. What inadequacies hamper the enhancement of these features?",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T15"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q09",
+        "question_text": "‘Virus of Conflict is affecting the functioning of the SCO’. In the light of the above statement point out the role of India in mitigating problems.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T17"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q10",
+        "question_text": "Indian diaspora has scaled new heights in the West. Describe its economic and political benefits for India.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T19"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q11",
+        "question_text": "” The Construction of India is a living instrument with capabilities of enormous dynamism. It is a constitution made for a progressive society”. Illustrate with special reference to the expanding horizons of the right to life and personal liberty.",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T1",
+          "GS2_T3"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q12",
+        "question_text": "Explain the constitutional perspectives of Gender Justice with the help of relevant Constitutional Provisions and case laws.",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T1",
+          "GS2_T12"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q13",
+        "question_text": "Account for the legal and political factors responsible for the reduced frequency of using Article 356 by the Union Governments since mid 1990s.",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T2"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q14",
+        "question_text": "Discuss the contribution of civil society groups for women’s effective and meaningful participation and representation in state legislatures in India.",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T12"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q15",
+        "question_text": "Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T2",
+          "GS2_T8"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q16",
+        "question_text": "Explain the structure of the Parliamentary Committee system. How far have the financial committees helped in the institutionalization of Indian Parliament?",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T5"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q17",
+        "question_text": "“Development and welfare schemes for the vulnerable, by its nature, are discriminatory in approach.” Do you agree? Give reasons for your answer.",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T12"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q18",
+        "question_text": "Skill development programs have succeed in increasing human resources supply to various sectors. In the context of the statement analyze the linkages between education, skill and employment.",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T13"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q19",
+        "question_text": "‘The expansion and strengthening of NATO and a stronger US-Europe strategic partnership works well in India.’ What is your opinion about this statement? Give reasons and examples to support your answer.",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T18"
+        ]
+      },
+      {
+        "question_id": "GS2_2023_Q20",
+        "question_text": "‘Sea is an important Component of the Cosmos’. Discuss in the light of the above statement the role of the IMO(International Maritime Organisation) in protecting environment and enhancing maritime safety and security.",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": [
+          "GS2_T20"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q01",
+        "question_text": "Faster economic growth requires increased share of the manufacturing sector in GDP, particularly of MSMEs. Comment on the present policies of the Government in this regard.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS3_T1",
+          "GS3_T8"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q02",
+        "question_text": "What is the status of digitalization in the Indian economy? Examine the problems faced in this regard and suggest improvements.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS3_T1",
+          "GS3_T13"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q03",
+        "question_text": "How does e-Technology help farmers in production and marketing of agricultural produce? Explain it.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS3_T4",
+          "GS3_T11"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q04",
+        "question_text": "State the objectives and measures of land reforms in India. Discuss how land ceiling policy on landholding can be considered as an effective reform under economic criteria.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS3_T7"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q05",
+        "question_text": "Introduce the concept of Artificial Intelligence (AI). How does AI help clinical diagnosis? Do you perceive any threat to privacy of the individual in the use of AI in the healthcare?",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS3_T11",
+          "GS3_T13"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q06",
+        "question_text": "Discuss several ways in which microorganisms can help in meeting the current fuel shortage.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS3_T13"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q07",
+        "question_text": "Dam failures are always catastrophic, especially on the downstream side, resulting in a colossal loss of life and property. Analyze the various causes of dam failures. Give two examples of large dam failures.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS3_T14",
+          "GS3_T15"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q08",
+        "question_text": "What is oil pollution? What are its impacts on the marine ecosystem? In what way is oil pollution particularly harmful for a country like India?",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS3_T14"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q09",
+        "question_text": "Winning of ‘Hearts and Minds’ in terrorism affected areas is an essential step in restoring the trust of the population. Discuss the measures adopted by the Government in this respect as part of the conflict resolution in Jammu and Kashmir.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS3_T19",
+          "GS3_T16"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q10",
+        "question_text": "The use of unmanned aerial vehicles(UAVs) by our adversaries across the borders to ferry arms/ammunitions, drugs, etc., is a serious threat to the internal security. Comment on the measures being taken to tackle this threat.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS3_T18",
+          "GS3_T20"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q11",
+        "question_text": "Most of the unemployment in India is structural in nature. Examine the methodology adopted to compute unemployment in the country and suggest improvements.",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS3_T1"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q12",
+        "question_text": "Distinguish between ‘care economy’ and ‘monetized economy’. How can care economy be brought into monetized economy through women empowerment?",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS1_T6",
+          "GS3_T2"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q13",
+        "question_text": "Explain the changes in cropping pattern in India in the context of changes in consumption pattern and marketing conditions.",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS3_T4"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q14",
+        "question_text": "What are the direct and indirect subsidies provided to farm sector in India? Discuss the issues raised by the World Trade Organization(WTP) in relation to agricultural subsidies.",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS3_T5"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q15",
+        "question_text": "The adoption of electric vehicles is rapidly growing worldwide. How do electric vehicles contribute to reducing carbon emissions and what are the key benefits they offer compared to traditional combustion engine vehicles?",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS3_T14"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q16",
+        "question_text": "What is the main task of India’s third mood mission which could not be achieved in its earlier mission? List the countries that have achieved this task. Introduce the subsystems in the spacecraft launched and explain the role of the ‘Virtual Launch Control Centre’ at the Vikram Sarabhai Space Centre which contributed to the successful launch from Sriharikota.",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS3_T11"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q17",
+        "question_text": "Comment on the National Wetland Conservation Programme initiated by the Government of India and name a few India’s wetlands of international importance included in the Ramsar Sites.",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS3_T14"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q18",
+        "question_text": "The Intergovernmental Panel on Climate Change(IPCC) has predicted a global sea level rise of about one metre by AD 2100. What would be its impact in India and the other countries in the Indian Ocean region?",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS3_T14"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q19",
+        "question_text": "What are the internal security challenges being faced by India? Give out the role of Central Intelligence and Investigative Agencies tasked to counter such threats.",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS3_T19",
+          "GS3_T20"
+        ]
+      },
+      {
+        "question_id": "GS3_2023_Q20",
+        "question_text": "Give out the major sources of terror funding in India and efforts being made to curtail these sources. In the light of this, also discuss the aim and objective of the ‘ No Money for Terror [NMFT]’ Conference recently held at New Delhi in November 2022.",
+        "year": 2023,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": [
+          "GS3_T19",
+          "GS3_T20"
+        ]
+      },
+      {
+        "question_id": "GS4_2023_Q01",
+        "question_text": "What do you understand by ‘moral integrity’ and ‘professional efficiency in the context of corporate governance in India ? Illustrate with suitable examples.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": [
+          "GS4_T6",
+          "GS4_T7"
+        ]
+      },
+      {
+        "question_id": "GS4_2023_Q02",
+        "question_text": "‘International aid’ is an accepted form of helping ‘resource-challenged’ nations. Comment on ‘ethics in contemporary international aid’. Support your answer with suitable examples.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": [
+          "GS4_T1"
+        ]
+      },
+      {
+        "question_id": "GS4_2023_Q03",
+        "question_text": "“Corruption is the manifestation of the failure of core values in the society.” In your opinion, what measures can be adopted to uplift the core values in the society?",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": [
+          "GS4_T7",
+          "GS4_T1"
+        ]
+      },
+      {
+        "question_id": "GS4_2023_Q04",
+        "question_text": "In the context of work environment, differentiate between ‘coercion’ and ‘undue influence’ with suitable examples.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": [
+          "GS4_T1"
+        ]
+      },
+      {
+        "question_id": "GS4_2023_Q05_a",
+        "question_text": "The simplest acts of kindness are by far more powerful than a thousand heads bowing in prayer. – Mahatma Gandhi",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": [
+          "GS4_T1",
+          "GS4_T5"
+        ]
+      },
+      {
+        "question_id": "GS4_2023_Q05_b",
+        "question_text": "To awaken the people, it is the women who must be awakened. Ones she is on the move, the family moves, the village moves, the nation moves. – Jawaharlal Nehru",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": [
+          "GS1_T7",
+          "GS4_T1",
+          "GS4_T5"
+        ]
+      },
+      {
+        "question_id": "GS4_2023_Q05_c",
+        "question_text": "Do not hate anybody, because that hatred that comes out from you must, in the long run, come back to you. If you love, that love will come back to you, completing the circle. – Swami Vivekanand.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": [
+          "GS4_T1",
+          "GS4_T5"
+        ]
+      },
+      {
+        "question_id": "GS4_2023_Q06",
+        "question_text": "What really matters for success, character, happiness and lifelong achievements is a definite set of emotional skills – your EQ- not just purely cognitive abilities that are measured by conventional IQ tests.” Do you agree with this view ? Give reasons in support of your answer.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": [
+          "GS4_T4",
+          "GS4_T1"
+        ]
+      },
+      {
+        "question_id": "GS4_2023_Q07",
+        "question_text": "Differentiate ‘moral intuition from ‘moral reasoning’ with suitable examples.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": [
+          "GS4_T1"
+        ]
+      },
+      {
+        "question_id": "GS4_2023_Q08",
+        "question_text": "Is conscience a more reliable guide when compared to laws, rules and regulations in the context of ethical decision making ? Discuss.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": [
+          "GS4_T1",
+          "GS4_T6"
+        ]
+      },
+      {
+        "question_id": "GS4_2023_Q09",
+        "question_text": "‘Probity is essential for an effective system of governance and socio-economic development.’ Discuss.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": [
+          "GS4_T7",
+          "GS4_T6"
+        ]
+      },
+      {
+        "question_id": "GS4_2023_Q10",
+        "question_text": "What were the major teachings of Guru Nanak? Explain their relevance in the contemporary world.",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": [
+          "GS1_T6",
+          "GS4_T5"
+        ]
+      },
+      {
+        "question_id": "GS4_2023_Q11",
+        "question_text": "Explain the term social capital. How does it enhance good governance?",
+        "year": 2023,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": [
+          "GS4_T6"
+        ]
+      },
+      {
+        "question_id": "GS4_2023_Q12",
+        "question_text": "You are working as an executive in a nationalized bank for several years. One day one of your close colleagues tells you that her father is suffering from heart disease and needs surgery immediately to survive. She also tells you that she has no insurance and the operation will cost about Rs. 10 lakh. You are also aware of the fact that her husband is no more and that she is from a lower middle class family. You are empathetic about her situation. However, apart from expressing your sympathy, you do not have the resources to fund her. A few weeks later, you ask her about the well-being of her father and she informs you about his successful surgery and that he is recovering. She then confides in you that the bank manager was kind enough to facilitate the release of Rs. 10 lakh from a dormant recount of someone to pay for the operation with a promise that it should be confidential and be repaid at the earliest. She has already started paying it back and will continue to do no until it is all returned. (a) What are the ethical issues involved ? (b) Evaluate the behavior or the bank manager from an ethical point of view. (c) How would you react to the situation ?",
+        "year": 2023,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": [
+          "GS4_T1",
+          "GS4_T6"
+        ]
+      },
+      {
+        "question_id": "GS4_2023_Q13",
+        "question_text": "A landslide occurred in the middle of the night on 20th July, 2023 in a remote mountain hamlet, approximately 60kilometers from Uttarkashi. The landslide was caused by torrential rains and has resulted in large-scale destruction of property and life. You, as district magistrate of the area, have rushed to the spot with a team of doctors, NGOs, media and police along with numerous support staff to oversee the rescue operations. A man came running to you with a request for urgent medical help for his pregnant wife who is in labor and is losing blood. You directed your medical team to examine his wife. They return and convey to you that this woman needs blood transfusion immediately. Upon enquiry, you come know that a few blood collection bags and blood group test kits are available in the ambulance accompanying your team. Few people of your team have already volunteered to donate blood. Being a physician who has graduated for AIIMS, you know that blood for transfusion needs to be procured only through a recognized blood bank. Your team members are divided on this issue; some favor transfusion while some others oppose it. The doctors in the team are ready to facilitate the delivery provided they are not penalized for transfusion. Now you are in a dilemma. Your professional training emphasizes on prioritizing service to humanity and saving lives of individuals. (a)What are the ethical issues involved in this case? (b) Evaluate the options available to you, being District Magistrate of the area.",
+        "year": 2023,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": [
+          "GS4_T1"
+        ]
+      },
+      {
+        "question_id": "GS4_2023_Q14",
+        "question_text": "At 9 pm on Saturday evening, Rashika, a Joint Secretary, was still engrossed in her work in her office. Her husband, Vikram, is an executive in an MNC and frequently out of town in connection with his work. Their two children aged 5 and 3 are looked after by their domestic helper. At 9:30 pm her superior, Mr. Suresh calls her and asks her to prepare a detailed note on an important matter to be discussed in a meeting in the Ministry. She realises, that she will have to work on Sunday to finish the additional task given by her superior. She reflects on how she had looked forward to this posting and had worked long hours for months to achieve it. She had kept the welfare of people uppermost in discharging her duties. She feels that she has not done enough justice to her family and she has not fulfilled her duties in discharging essential social obligations. Even as recently as last month she had to leave her sick child in the nanny’s care as she had to work in the office. Now, she feels that she must draw a line, beyond which her personal life should take precedence over her professional responsibilities. She thinks that there should be reasonable limits to the work ethics such as punctuality, hard work, dedication to duty and selfless service. (a) Discuss the ethical issues involved in this case. (b) Briefly describe at least four laws that have been enacted by the Government with respect to providing a healthy, safe and equitable working environment for women. (c) Imagine you are in a similar situation. What suggestions would you make to mitigate such working conditions?",
+        "year": 2023,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": [
+          "GS4_T1",
+          "GS4_T3"
+        ]
+      },
+      {
+        "question_id": "GS4_2023_Q15",
+        "question_text": "Vinod is an honest and sincere IAS officer. Recently, he has taken over as Managing Director of the State Road Transport Corporation, his sixth transfer in the past three years. His peers acknowledge his vast knowledge, affability and uprightness. The Chairman of the State Road Transport Corporation is a powerful politician and is very close to the Chief Minister. Vinod comes to know about many alleged irregularities of the Corporation and the high-handedness of the Chairman in financial matters. A Board Member of the Corporation belonging to the Opposition Party meets Vinod and hands over a few documents along with a video recording in which the Chairman appears to be demanding bribe for placing a huge order for the supply of QMR tyres. Vinod recollects the Chairman expediting clearing of pending bills of QMR tyres. Vinod confronts the Board Member as to why he is shying away from exposing the Chairman with the so-called solid proof he has with him. The member informs him that the Chairman refuses to yield to his threats. He adds that Vinod may earn recognition and public support if he himself exposes he Chairman. Further, he tells Vinod that once his party comes to power, Vinod’s professional growth would be assured. Vinod is aware that he may be penalized if he exposes the Chairman and may further be transferred to a distant place. He knows that the Opposition Party stands a better chance of coming to power in the forthcoming elections. However, he also realizes that the Board Member is trying to use him for his own political gains. (a) As a conscientious civil servant, evaluate the options available to Vinod. (b) In the light of the above case, comment upon the ethical issues that may arise due to the politicization of bureaucracy.",
+        "year": 2023,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": [
+          "GS4_T3"
+        ]
+      },
+      {
+        "question_id": "GS4_2023_Q16",
+        "question_text": "You have just been appointed as Additional Director General of Central Public Works Department. The Chief Architect of your division, who is to retire in six months, is passionately working on a very important project, the successful completion of which would earn him a lasting reputation for the rest of his life. A new lady architect. Seema, trained at Manchester School of Architecture, UK joined as Senior Architect in your division. During the briefing about the project, Seema made some suggestions which would not only add value to the project, but would also reduce completion time. This has made the Chief Architect insecure and he is constantly worried that all the credit will go to her. Subsequently, he adopted a passive and aggressive behaviour towards her and has become disrespectful to her. Seema felt it embarrassing as the Chief Architect left no chance of humiliating her. He would very often correct her in front of other colleagues and raise his voice while speaking to her. This continuous harassment has resulted in her losing confidence and self-esteem. She felt perpetually tensed, anxious and stressed. She appeared to be in awe of him since he has had a long tenure in the office and has vast experience in the area of her work. You are aware of her outstanding academic credentials and career record in her previous organisations. However, you fear that this harassment may result in compromising her much needed contribution in this important project and may adversely impact her emotional well-being. You have also come to know from her peers that she is contemplating tendering her resignation. (a) What are the ethical issues involved in the above case? (b) What are the options available to you in order to complete the project as well as to retain Seema in the organization? (c) What would be your response to Seema’s predicament? What measures would you institute to prevent such occurrences from happening in your organization ?",
+        "year": 2023,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": [
+          "GS4_T1",
+          "GS4_T6"
+        ]
+      },
+      {
+        "question_id": "GS4_2023_Q17",
+        "question_text": "You hold a responsible position in a ministry in the government. One day in the morning you received a call from the school of your 11-year-old son that you are required to come and meet the Principal. You proceed to the school and find your son in the Principal’s office. The Principal informs you that your son had been found wandering aimlessly in the grounds during the time classes were in progress. The class teacher further informs you that your son has lately become a loner and did not respond to questions in the class, he had also been unable to perform well in the football trials held recently. You bring your son back from the school and in the evening, you along with your wife try to find out the reasons for your son’s changed behaviour. After repeated cajoling, your son shares that some children had been making fun of him in the class as well as in the WhatsApp group of the students by calling him stunted, duh and a frog. He tells you the names of a few children who are the main culprits but pleads with you to let the matter rest. After a few days, during a sporting event, where you and your wife have gone to watch your son play, one of your colleague’s son shows you a video in which students have caricatured your son. Further, he also points out to the perpetrators who were sitting in the stands. You purposefully walk past them with your son and go home. Next day, you find on social media, a video denigrating you, your son and even your wife, stating that you engaged in physical bullying of children on the sports field. The video became viral on social media. Your friends and colleagues began calling you to find out the details. One of your juniors advised you to make a counter video giving the background and explaining that nothing had happened on the field. You, in turn posted a video which you have captured during the sporting event, identifying the likely perpetrators who were responsible for your son’s predicament. You have also narrated what has actually happened in the field and made attempts to bring out the adverse effects of the misuse of social media. (a)Based on the above case study, discuss the ethical issues involved in the use of social media. (b)Discuss the pros and cons of using social media by you to put across the facts to counter the fake propaganda against your family.",
+        "year": 2023,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": [
+          "GS4_T1",
+          "GS4_T2"
+        ]
+      }
+    ]
+  }
+
+  
