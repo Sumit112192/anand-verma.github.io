@@ -33,6 +33,7 @@ function generateQCABPDF(questions) {
 
     doc.setFont("Times", "Roman");
     doc.setFontSize(12);
+    doc.text("Self Note:", leftMargin + 2, topMargin + 5);
 
     questions.forEach((q) => {
         const pagesNeeded = Math.ceil(q.marks / 7);
@@ -79,8 +80,11 @@ function generateQCABPDF(questions) {
     });
 
     window.generatedPDF = doc;
-    document.getElementById("downloadPDF").style.display = "inline-block";
-    alert("QCAB PDF generated! Click 'Download QCAB PDF' to save.");
+    if (window.generatedPDF) {
+        window.generatedPDF.save("QCAB.pdf");
+    }
+    //document.getElementById("downloadPDF").style.display = "inline-block";
+    //alert("QCAB PDF generated! Click 'Download QCAB PDF' to save.");
 }
 
 document.getElementById("downloadPDF").addEventListener("click", () => {
