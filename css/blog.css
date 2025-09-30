@@ -55,6 +55,7 @@
     font-family: 'Monaco', 'Consolas', monospace;
 }
 
+/*
 .blog-post-content pre {
     background: var(--text-primary);
     color: var(--bg-secondary);
@@ -63,6 +64,7 @@
     overflow-x: auto;
     margin: 2rem 0;
 }
+    */
 
 .blog-post-content pre code {
     background: none;
