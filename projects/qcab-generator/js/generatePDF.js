@@ -33,7 +33,7 @@ function generateQCABPDF(questions) {
 
     doc.setFont("Times", "Roman");
     doc.setFontSize(12);
-    doc.text("Self Note:", leftMargin + 2, topMargin + 5);
+    doc.text("Remarks:", leftMargin + 2, topMargin + 5);
 
     questions.forEach((q) => {
         const pagesNeeded = Math.ceil(q.marks / 7);
