@@ -35,6 +35,22 @@ function generateQCABPDF(questions) {
     doc.setFontSize(12);
     doc.text("Remarks:", leftMargin + 2, topMargin + 5);
 
+    /*let currentY = topMargin;
+    const localWidth = rightMargin - leftMargin - 4;
+    const lineHeight = 6; // or set according to your font size and line spacing
+
+    questions.forEach((q) => {
+        doc.text(`${q.question_number}. `, leftMargin -15, currentY);
+        const qText = `${q.question_text}   [${q.marks} M / ${q.year}]`;
+        const splitText = doc.splitTextToSize(qText, localWidth);
+        doc.text(splitText, leftMargin + 2, currentY);
+
+        // Update currentY by number of lines * lineHeight
+        currentY += splitText.length * lineHeight;
+
+        console.log(currentY);
+    });*/
+
     questions.forEach((q) => {
         const pagesNeeded = Math.ceil(q.marks / 7);
 

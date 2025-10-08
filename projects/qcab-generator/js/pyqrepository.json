@@ -3050,6 +3050,719 @@
         "word_limit": 250,
         "gs_paper": "GS4",
         "official_syllabus_topics": ["GS4_T8"]
+      },
+      {
+        "question_id": "GS1_2021_Q1",
+        "question_text": "Evaluate the nature of the Bhakti Literature and its contribution to Indian culture.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T1"]
+      },
+      {
+        "question_id": "GS1_2021_Q2",
+        "question_text": "Trace the rise and growth of socio-religious reform movements with special reference to Young Bengal and Brahmo Samaj.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T2"]
+      },
+      {
+        "question_id": "GS1_2021_Q3",
+        "question_text": "Assess the main administrative issues and socio-cultural problems in the integration process of Indian Princely States.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T4"]
+      },
+      {
+        "question_id": "GS1_2021_Q4",
+        "question_text": "Differentiate the causes of landslides in the Himalayan region and western Ghat.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T10"]
+      },
+      {
+        "question_id": "GS1_2021_Q5",
+        "question_text": "Despite India being one of the countries of Gondwanaland, its mining industry contributes much less to its Gross Domestic Products [GDP] in percentage. Discuss.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T11"]
+      },
+      {
+        "question_id": "GS1_2021_Q6",
+        "question_text": "What are the environmental implications of the reclamation of water bodies into urban land use? Explain with examples.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS3_T14","GS1_T12"]
+      },
+      {
+        "question_id": "GS1_2021_Q7",
+        "question_text": "Mention the global Occurrence of volcanic eruptions in 2021 and their impact on the regional environment.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T12"]
+      },
+      {
+        "question_id": "GS1_2021_Q8",
+        "question_text": "Why is India considered as a subcontinent? Elaborate your answer.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T10"]
+      },
+      {
+        "question_id": "GS1_2021_Q9",
+        "question_text": "Examine the uniqueness of tribale knowledge system when compared with mainstream knowledge and cultural systems.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T6"]
+      },
+      {
+        "question_id": "GS1_2021_Q10",
+        "question_text": "Examine the role of ‘Gig Economy’ in the process of empowerment of women in India.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T7"]
+      },
+      {
+        "question_id": "GS1_2021_Q11",
+        "question_text": "To what extent did the role of the moderates prepare a base for the wider freedom movement? Comment.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T2"]
+      },
+      {
+        "question_id": "GS1_2021_Q12",
+        "question_text": "Bring out the constructive programmes of Mahatma Gandhi during Non-Cooperation Movement and Civil Disobedience Movement.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T2"]
+      },
+      {
+        "question_id": "GS1_2021_Q13",
+        "question_text": "There arose a serious challenge to the Democratic State System between the two World Wars. Evaluate the statement.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T5"]
+      },
+      {
+        "question_id": "GS1_2021_Q14",
+        "question_text": "Briefly mention the alignment of major mountain ranges of the world and explain their impact on local weather conditions, with examples.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T10"]
+      },
+      {
+        "question_id": "GS1_2021_Q15",
+        "question_text": "How do the melting of the Arctic ice and glaciers of an Antarctic differently affect the weather patterns and human activities on the Earth? Explain.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T12"]
+      },
+      {
+        "question_id": "GS1_2021_Q16",
+        "question_text": "Discuss the multi-dimension implications of uneven distribution of mineral oil in the world.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T11"]
+      },
+      {
+        "question_id": "GS1_2021_Q17",
+        "question_text": "What are the main socio-economic implications arising out of the development of IT industries in major cities of India?",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T7"]
+      },
+      {
+        "question_id": "GS1_2021_Q18",
+        "question_text": "Discuss the main objectives of Population Education and point out the measures to achieve them in India in detail.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T7", "GS1_T9"]
+      },
+      {
+        "question_id": "GS1_2021_Q19",
+        "question_text": "What is Crypto currency? How does it affect global society? Has it been affecting Indian society also?",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS3_T13"]
+      },
+      {
+        "question_id": "GS1_2021_Q20",
+        "question_text": "How does Indian society maintain continuity in traditional social values? Enumerate the changes taking place in it.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS1",
+        "official_syllabus_topics": ["GS1_T6"]
+      },
+  
+      {
+        "question_id": "GS2_2021_Q1",
+        "question_text": "‘Constitutional Morality’ is rooted in the Constitution itself and is founded on its essential facets. Explain the doctrine of ‘Constitutional Morality’ with the help of relevant judicial decisions.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T1"]
+      },
+      {
+        "question_id": "GS2_2021_Q2",
+        "question_text": "Discuss the desirability of greater representation to women in the higher judiciary to ensure diversity, equity and inclusiveness.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T1", "GS2_T8"]
+      },
+      {
+        "question_id": "GS2_2021_Q3",
+        "question_text": "How have the recommendations of the 14th Finance Commission of India enabled the states to improve their fiscal position?",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T2", "GS2_T10"]
+      },
+      {
+        "question_id": "GS2_2021_Q4",
+        "question_text": "To what extent, in your view, the Parliament is able to ensure accountability of the executive in India?",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T5", "GS2_T6"]
+      },
+      {
+        "question_id": "GS2_2021_Q5",
+        "question_text": "Pressure groups play a vital role in influencing public policy making in India. Explain how the business associations contribute to public policies.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T6"]
+      },
+      {
+        "question_id": "GS2_2021_Q6",
+        "question_text": "Besides being a moral imperative of a Welfare State, primary health structure is a necessary precondition for sustainable development. Analyse.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T12"]
+      },
+      {
+        "question_id": "GS2_2021_Q7",
+        "question_text": "Earn while you learn scheme needs to be strengthened to make vocational education and skill training meaningful.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T13"]
+      },
+      {
+        "question_id": "GS2_2021_Q8",
+        "question_text": "Can the vicious cycle of gender inequality, poverty and malnutrition be broken through microfinancing of women SHGs? Explain with examples.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T12"]
+      },
+      {
+        "question_id": "GS2_2021_Q9",
+        "question_text": "If the last few decades were of Asian’s. In the light of this statement, examine India’s influence in Africa in recent years.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T17"]
+      },
+      {
+        "question_id": "GS2_2021_Q10",
+        "question_text": "The USA is facing an existential threat in the form of China, that is much more challenging than the erstwhile Soviet Union. Explain.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T17"]
+      },
+      {
+        "question_id": "GS2_2021_Q11",
+        "question_text": "The jurisdiction of the Central Bureau of Investigation(CBI) regarding lodging an FIR and conducting probe within a particular state is being questioned by various States. However, the power of States to withhold consent to the CBI is not absolute. Explain with special reference to the federal character of India.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T2", "GS2_T6"]
+      },
+      {
+        "question_id": "GS2_2021_Q12",
+        "question_text": "Though the Human Rights Commissions have contributed immensely to the protection of human rights in India, yet they have failed to assert themselves against the mighty and powerful. Analyzing their structural and practical limitations, suggest remedial measures.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T12"]
+      },
+      {
+        "question_id": "GS2_2021_Q13",
+        "question_text": "Analyze the distinguishing features of the notion of Equality in the Constitutions of the USA and India.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T4", "GS2_T1"]
+      },
+      {
+        "question_id": "GS2_2021_Q14",
+        "question_text": "Explain the constitutional provisions under which Legislative Councils are established. Review the working and current status of Legislative Councils with suitable illustrations.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T2"]
+      },
+      {
+        "question_id": "GS2_2021_Q15",
+        "question_text": "Do Department -related Parliamentary Standing Committees keep the administration on its toes and inspire reverence for parliamentary control? Evaluate the working of such committees with suitable examples.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T5"]
+      },
+      {
+        "question_id": "GS2_2021_Q16",
+        "question_text": "Has digital illiteracy, particularly in rural areas, coupled with lack of Information and Communication Technology(ICT) accessibility hindered socio-economic development? Examine with justification.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T11"]
+      },
+      {
+        "question_id": "GS2_2021_Q17",
+        "question_text": "Though women in post-Independent India have excelled in various fields, the social attitude towards women and feminist movement has been patriarchal. Apart from women education and women empowerment schemes, what interventions can help change this milieu?",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T7"]
+      },
+      {
+        "question_id": "GS2_2021_Q18",
+        "question_text": "Can Civil Society and Non-Governmental Organisations present an alternative model of public service delivery to benefit the common citizen? Discuss the challenges of this alternative model.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T11"]
+      },
+      {
+        "question_id": "GS2_2021_Q19",
+        "question_text": "Critically examine the aims and objectives of SCO. What Importance does it hold for India?",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T20"]
+      },
+      {
+        "question_id": "GS2_2021_Q20",
+        "question_text": "The newly tri-nation partnership AUKUS is aimed at countering China’s ambitions in the Indo-Pacific region. Is it going to supersede the existing partnership in the region? Discuss the strength and impact of AUKUS in the present scenario.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS2",
+        "official_syllabus_topics": ["GS2_T20"]
+      },
+      {
+        "question_id": "GS3_2021_Q1",
+        "question_text": "Explain the difference between computing methodology of India’s Gross Domestic Product (GDP) before the year 2015 and after the year 2015.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T1"]
+      },
+      {
+        "question_id": "GS3_2021_Q2",
+        "question_text": "Distinguish between Capital Budget and Revenue Budget. Explain the components of both these Budgets.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T3"]
+      },
+      {
+        "question_id": "GS3_2021_Q3",
+        "question_text": "How did land reforms in some parts of the country help to improve the socio-economic conditions of marginal and small farmers?",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T7"]
+      },
+      {
+        "question_id": "GS3_2021_Q4",
+        "question_text": "How and to what extent would micro-irrigation help in solving India’s water crisis?",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T4"]
+      },
+      {
+        "question_id": "GS3_2021_Q5",
+        "question_text": "How is S-400 air defence system technically superior to any other system presently available in the world?",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T11"]
+      },
+      {
+        "question_id": "GS3_2021_Q6",
+        "question_text": "Explain the purpose of the Green Grid Initiative launched at the World Leader Summit of the COP26 UN Climate change conference in Glasgow in November, 2021. When was this idea first floated in the International Solar Alliance [ISA]?",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T14"]
+      },
+      {
+        "question_id": "GS3_2021_Q7",
+        "question_text": "Describe the key points of the revised Global Air Quality Guidelines [AQGs] recently released by the World Health Organisation [WHO]. How are these different from its last update in 2005? What changes in India’s National Clean Air Programme are required to achieve these revised standards?",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T14"]
+      },
+      {
+        "question_id": "GS3_2021_Q8",
+        "question_text": "Discuss about the vulnerability of India to earthquake related hazards. Give examples including the salient features of major disasters caused by earthquakes in different parts of India during the last three decades.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T15"]
+      },
+      {
+        "question_id": "GS3_2021_Q9",
+        "question_text": "Discuss how emerging technologies and globalisation contribute to money laundering. Elaborate measures to tackle the problem of money laundering both at national and international levels.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T18"]
+      },
+      {
+        "question_id": "GS3_2021_Q10",
+        "question_text": "Keeping in view India’s internal security, analyze the impact of cross-border cyber-attacks. Also discuss defensive measures against these sophisticated attacks.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T18"]
+      },
+      {
+        "question_id": "GS3_2021_Q11",
+        "question_text": "Do you agree that the Indian economy has recently experienced V-shaped recovery? Give reasons in support of your answer.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T1"]
+      },
+      {
+        "question_id": "GS3_2021_Q12",
+        "question_text": "Investment in infrastructure is essential for more rapid and inclusive economic growth. Discuss in the light of India’s experience.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T1"]
+      },
+      {
+        "question_id": "GS3_2021_Q13",
+        "question_text": "What are the salient features of the National Food Security Act, 2013? How has the Food Security Bill helped in eliminating hunger and malnutrition in India?",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T5"]
+      },
+      {
+        "question_id": "GS3_2021_Q14",
+        "question_text": "What are the present challenges before crop diversification? How do emerging technologies provide an opportunity for crop diversification?",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T4"]
+      },
+      {
+        "question_id": "GS3_2021_Q15",
+        "question_text": "What are the research and developmental achievements in applied biotechnology? How will these achievements help to uplift the poorer sections of the society?",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T13"]
+      },
+      {
+        "question_id": "GS3_2021_Q16",
+        "question_text": "The Nobel Prize in Physics of 2014 was jointly awarded to Akasaki, Amano and Nakamura for the invention of Blue LEDs in 1990s. How has this invention impacted the everyday life of human beings?",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T13"]
+      },
+      {
+        "question_id": "GS3_2021_Q17",
+        "question_text": "Describe the major outcome of the 26th session of the Conference of Parties [COP] to the United Nations Framework conversation on climate change [UNFCCC]. What are the commitments made by India in this conference?",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T14"]
+      },
+      {
+        "question_id": "GS3_2021_Q18",
+        "question_text": "Describe the various causes and the effects of landslides. Mention components of the important components of National Landslide Risk Management strategy.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T15"]
+      },
+      {
+        "question_id": "GS3_2021_Q19",
+        "question_text": "Analyse the multidimensional challenges posed by external state and non-state actors to the internal security of India and discuss measures required to combat these threats.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T16", "GS3_T17"]
+      },
+      {
+        "question_id": "GS3_2021_Q20",
+        "question_text": "Analyse the complexity and intensity of terrorism, its causes, linkages, and obnoxious nexus. Also suggest measures required to be taken to eradicate the menace of terrorism.",
+        "year": 2021,
+        "marks": 15,
+        "word_limit": 250,
+        "gs_paper": "GS3",
+        "official_syllabus_topics": ["GS3_T16", "GS3_T17"]
+      },
+  
+      {
+        "question_id": "GS4_2021_Q1",
+        "question_text": "Identify five ethical traits on which one can plot the performance of a civil servant. Justify their inclusion in the matrix.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T3", "GS4_T6"]
+      },
+      {
+        "question_id": "GS4_2021_Q2",
+        "question_text": "Identify ten essential values that are needed to be an effective public servant. Describe the ways and means to prevent unethical behavior in the public servants.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T6"]
+      },
+      {
+        "question_id": "GS4_2021_Q3",
+        "question_text": "Impact of digital technology as a reliable source of input for rational decision making is a debatable issue. Critically evaluate with suitable examples.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1", "GS4_T6"]
+      },
+      {
+        "question_id": "GS4_2021_Q4",
+        "question_text": "Besides domain knowledge, a public official needs innovativeness and creativity of a high order as well, while resolving ethical dilemmas. Discuss with suitable examples.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T3", "GS4_T6"]
+      },
+      {
+        "question_id": "GS4_2021_Q5",
+        "question_text": "What does each of the following quotations mean to you? “Every work has to pass through hundreds of difficulties before succeeding. Those that persevere will see the light, sooner or later. -Swami Vivekananda",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1"]
+      },
+      {
+        "question_id": "GS4_2021_Q6",
+        "question_text": "“We can never obtain peace in the outer world until and unless we obtain peace within ourselves.” – Dalai Lama",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1"]
+      },
+      {
+        "question_id": "GS4_2021_Q7",
+        "question_text": "Life doesn’t make any sense without interdependence. We need each other, and the sooner we learn that, it is better for us all.” -Erik Erikson",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1"]
+      },
+      {
+        "question_id": "GS4_2021_Q8",
+        "question_text": "Attitude is an important component that goes as input in the development of human beings. How to build a suitable need for a public servant?",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T2"]
+      },
+      {
+        "question_id": "GS4_2021_Q9",
+        "question_text": "In case of a crisis of conscience does emotional intelligence help to overcome the same without compromising the ethical or moral stand that you are likely to follow? Critically examine.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T4"]
+      },
+      {
+        "question_id": "GS4_2021_Q10",
+        "question_text": "“Refugees should not be turned back to the country where they would face persecution or human right violation.” Examine the statement with reference to the ethical dimension being violated by the nation claiming to be democratic with open society.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1", "GS4_T6"]
+      },
+      {
+        "question_id": "GS4_2021_Q11",
+        "question_text": "Should being impartial and being non-partisan be considered as indispensable qualities to make a successful civil servant? Discuss with illustrations.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T3"]
+      },
+      {
+        "question_id": "GS4_2021_Q12",
+        "question_text": "An independent and empowered social audit mechanism is an absolute must in every sphere of public service, including judiciary, to ensure performance, accountability and ethical conduct. Elaborate.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T3", "GS4_T6"]
+      },
+      {
+        "question_id": "GS4_2021_Q13",
+        "question_text": "\"Integrity is a value that empowers the human being.\" Justify with suitable illustration.",
+        "year": 2021,
+        "marks": 10,
+        "word_limit": 150,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T1"]
+      },
+      {
+        "question_id": "GS4_2021_Q14",
+        "question_text": "Sunil was working as a young civil servant in a tribal district notorious for illegal sand mining mafia supported by local functionaries and tribal musclemen. He initiated stringent action, but mafia retaliated with threats to Sunil and his family. (a) Identify the different options available to Sunil in attending to this situation. (b) Critically evaluate each of the options listed by you. (c) Which of the above would be the most appropriate for Sunil to adopt and why?",
+        "year": 2021,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T8"]
+      },
+      {
+        "question_id": "GS4_2021_Q15",
+        "question_text": "You are Vice Principal of a degree college, and face a dilemma involving cheating, management, and politics affecting your promotion. (a) Discuss the ethical issues. (b) Critically examine options and choose a course of action.",
+        "year": 2021,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T8"]
+      },
+      {
+        "question_id": "GS4_2021_Q16",
+        "question_text": "As project manager of an elevated corridor, you find a minor crack in a pier but are pressured to ignore it to meet election deadlines. (a) Options available to you? (b) Ethical dilemmas? (c) Professional challenges and response? (d) Consequences of overlooking the defect?",
+        "year": 2021,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T8"]
+      },
+      {
+        "question_id": "GS4_2021_Q17",
+        "question_text": "Describe the ethical dilemmas faced by a public hospital administrator during the COVID-19 pandemic, balancing staff safety and patient care. (a) Justify criteria for staff deployment. (b) Would your decisions differ if it were a private hospital?",
+        "year": 2021,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T6", "GS4_T7"]
+      },
+      {
+        "question_id": "GS4_2021_Q18",
+        "question_text": "A reputed Indian food company was found selling substandard products domestically while exporting approved products. (a) Actions against the company? (b) Remedies for the company? (c) Discuss ethical dilemmas involved.",
+        "year": 2021,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T8"]
+      },
+      {
+        "question_id": "GS4_2021_Q19",
+        "question_text": "Pawan suffers workplace harassment affecting personal life. (a) Options available? (b) Suggested approaches for peace at work and home? (c) Suggestions for boss and subordinate? (d) Training recommendations?",
+        "year": 2021,
+        "marks": 20,
+        "word_limit": 250,
+        "gs_paper": "GS4",
+        "official_syllabus_topics": ["GS4_T8"]
       }
     ]
   }
