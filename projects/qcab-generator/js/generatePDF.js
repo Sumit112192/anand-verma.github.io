@@ -12,13 +12,14 @@ document.getElementById("generateQCAB").addEventListener("click", () => {
         return;
     }
 
+    // Sort by marks if you still want that order, else comment next line
+    selectedQuestions.sort((a, b) => a.marks - b.marks);
+
     // Ensure sequential numbering (1,2,3...)
     selectedQuestions.forEach((q, i) => {
         q.question_number = i + 1;
+        console.log("Questions No:", q.question_number);
     });
-
-    // Sort by marks if you still want that order, else comment next line
-    selectedQuestions.sort((a, b) => a.marks - b.marks);
 
     //console.log("Selected Questions:", selectedQuestions);
 
@@ -33,26 +34,39 @@ function generateQCABPDF(questions) {
 
     doc.setFont("Times", "Roman");
     doc.setFontSize(12);
-    doc.text("Remarks:", leftMargin + 2, topMargin + 5);
 
-    /*let currentY = topMargin;
-    const localWidth = rightMargin - leftMargin - 4;
+    // ---------- PART 1: Render Question Listing ----------
+    let currentY = topMargin;
+    const localWidth = rightMargin - leftMargin +4; 
     const lineHeight = 6; // or set according to your font size and line spacing
 
-    questions.forEach((q) => {
-        doc.text(`${q.question_number}. `, leftMargin -15, currentY);
+    questions.forEach((q, index) => {
+        // Format question text
+        const qHeader = `${q.question_number}. `;
         const qText = `${q.question_text}   [${q.marks} M / ${q.year}]`;
+        console.log( "Questions:",qHeader,"----", qText);
+        // Split text to fit within width
         const splitText = doc.splitTextToSize(qText, localWidth);
+        const totalHeight = splitText.length * lineHeight + lineHeight;
+
+        // Add new page if content exceeds bottom margin
+        if (currentY + totalHeight > pageHeight - 15) {
+            doc.addPage();
+            currentY = topMargin;
+        }
+
+        // Draw question number and text
+        doc.text(qHeader, leftMargin - 15, currentY);
         doc.text(splitText, leftMargin + 2, currentY);
 
-        // Update currentY by number of lines * lineHeight
-        currentY += splitText.length * lineHeight;
+        // Update Y position
+        currentY += totalHeight; // spacing between questions
+    });
 
-        console.log(currentY);
-    });*/
+    // ---------- PART 2: Render QCAB Pages ----------
 
     questions.forEach((q) => {
-        const pagesNeeded = Math.ceil(q.marks / 7);
+        const pagesNeeded = Math.ceil(q.marks / 6);
 
         for (let p = 0; p < pagesNeeded; p++) {
             doc.addPage();
