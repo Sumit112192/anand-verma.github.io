@@ -72,6 +72,7 @@ button {
   padding: 8px 15px;
   margin: 5px;
   cursor: pointer;
+  border: 2px solid #ccc;
 }
 
 footer {
