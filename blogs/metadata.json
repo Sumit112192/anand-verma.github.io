@@ -1,6 +1,19 @@
 {
   "posts": [
     {
+      "id": "post-3",
+      "title": "कश्मकश",
+      "excerpt": "स्मृति - नदी किनारे बसे वो गाँव हो, बगल में बंधी हुई एक छोटी नाव हो।",
+      "date": "2025-10-13",
+      "author": "Anand",
+      "tags": [
+        "Life",
+        "Poem"
+      ],
+      "readTime": "5 min read",
+      "slug": "kashmakash"
+    },
+    {
       "id": "post-2",
       "title": "तितली",
       "excerpt": "टूटे वादे, गहरी उदासी",
