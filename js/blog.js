@@ -21,18 +21,26 @@ class BlogManager {
 
     async loadBlogData() {
         try {
-            // Load blog metadata
-            const response = await fetch('metadata.json');
-            const data = await response.json();
-            this.posts = data.posts || [];
-            this.filteredPosts = [...this.posts];
-
-            console.log('Blog data loaded:', this.posts.length, 'posts');
+          // Replace FILE_ID with your actual Google Drive file ID for metadata.json
+          const fileId = '1J45iy_eXTSiZoIcv_RDmFxZid_9hAexs';
+          const url = `https://drive.google.com/uc?export=download&id=${fileId}`;
+      
+          // Load blog metadata JSON from Google Drive link
+          const response = await fetch(url);
+          if (!response.ok) throw new Error('Network response was not ok');
+          const data = await response.json();
+      
+          // Assuming your JSON is an array, not wrapped in { posts: [...]} structure
+          this.posts = data || [];
+          this.filteredPosts = [...this.posts];
+      
+          console.log('Blog data loaded:', this.posts.length, 'posts');
         } catch (error) {
-            console.error('Error loading blog data:', error);
-            this.handleLoadError();
+          console.error('Error loading blog data:', error);
+          this.handleLoadError();
         }
-    }
+      }
+      
 
     handleLoadError() {
         // Fallback data if JSON fails to load

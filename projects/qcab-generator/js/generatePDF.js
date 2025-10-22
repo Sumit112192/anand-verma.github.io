@@ -56,7 +56,7 @@ function generateQCABPDF(questions) {
         }
 
         // Draw question number and text
-        doc.text(qHeader, leftMargin - 15, currentY);
+        doc.text(qHeader, leftMargin - 10, currentY);
         doc.text(splitText, leftMargin + 2, currentY);
 
         // Update Y position
