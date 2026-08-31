@@ -359,7 +359,157 @@
         "gs_paper": "GS4",
         "subject_name": "Case Studies",
         "description": "Case Studies : Case Studies on Ethics & Governance"
-      }
+      },
+  {
+    "id": "SOC_P1_T01",
+    "gs_paper": "SOC_P1",
+    "subject_name": "Sociology - The Discipline",
+    "description": "Sociology - The Discipline: Nature, Scope, Relationship with other Social Sciences, Common Sense, Emergence and Historical Antecedents."
+  },
+  {
+    "id": "SOC_P1_T02",
+    "gs_paper": "SOC_P1",
+    "subject_name": "Sociology as Science",
+    "description": "Sociology as Science: Positivism, Non-Positivism, Objectivity, Value Neutrality, Scientific Method, Interpretative Perspective."
+  },
+  {
+    "id": "SOC_P1_T03",
+    "gs_paper": "SOC_P1",
+    "subject_name": "Research Methods and Analysis",
+    "description": "Research Methods and Analysis: Qualitative and Quantitative Methods, Sampling, Hypothesis, Variables, Reliability, Validity, Ethnography, Participant Observation."
+  },
+  {
+    "id": "SOC_P1_T04",
+    "gs_paper": "SOC_P1",
+    "subject_name": "Sociological Thinkers",
+    "description": "Sociological Thinkers: Marx, Weber, Durkheim, Mead, Parsons, Merton."
+  },
+  {
+    "id": "SOC_P1_T05",
+    "gs_paper": "SOC_P1",
+    "subject_name": "Stratification and Mobility",
+    "description": "Stratification and Mobility: Class, Caste, Gender, Race, Ethnicity, Theories of Stratification, Social Mobility, Poverty and Social Exclusion."
+  },
+  {
+    "id": "SOC_P1_T06",
+    "gs_paper": "SOC_P1",
+    "subject_name": "Work and Economic Life",
+    "description": "Work and Economic Life: Social Organisation of Work, Capitalist Society, Informal Sector, Feminization of Work, Globalization and Labour."
+  },
+  {
+    "id": "SOC_P1_T07",
+    "gs_paper": "SOC_P1",
+    "subject_name": "Politics and Society",
+    "description": "Politics and Society: Power, Authority, Elite Theories, Pressure Groups, Civil Society, Social Movements, Democracy."
+  },
+  {
+    "id": "SOC_P1_T08",
+    "gs_paper": "SOC_P1",
+    "subject_name": "Religion and Society",
+    "description": "Religion and Society: Theories of Religion, Secularization, Religious Pluralism, Cults and Sects, Religious Revivalism."
+  },
+  {
+    "id": "SOC_P1_T09",
+    "gs_paper": "SOC_P1",
+    "subject_name": "Systems of Kinship",
+    "description": "Systems of Kinship: Family, Marriage, Kinship Relations, Patriarchy, Descent and Alliance, Changing Patterns."
+  },
+  {
+    "id": "SOC_P1_T10",
+    "gs_paper": "SOC_P1",
+    "subject_name": "Social Change in Modern Society",
+    "description": "Social Change in Modern Society: Theories of Social Change, Development, Dependency, Education, Science and Technology, Cultural Lag."
+  },
+  {
+    "id": "SOC_P2_T01",
+    "gs_paper": "SOC_P2",
+    "subject_name": "Perspectives on the study of Indian society",
+    "description": "Perspectives on the study of Indian society: Indological, Structural-Functional, Marxist, Subaltern, Cultural Pluralism."
+  },
+  {
+    "id": "SOC_P2_T02",
+    "gs_paper": "SOC_P2",
+    "subject_name": "Impact of colonial rule on Indian society",
+    "description": "Impact of colonial rule on Indian society: Economic Reforms, Nationalism, Social Reform Movements, Modernization of Tradition."
+  },
+  {
+    "id": "SOC_P2_T03",
+    "gs_paper": "SOC_P2",
+    "subject_name": "Rural & Agrarian Social structure",
+    "description": "Rural & Agrarian Social structure: Village Studies, Land Reforms, Agrarian Class Structure, Peasant Movements."
+  },
+  {
+    "id": "SOC_P2_T04",
+    "gs_paper": "SOC_P2",
+    "subject_name": "Caste System",
+    "description": "Caste System: Features, Sanskritization, Dominant Caste, Untouchability, Caste and Politics, Perspectives (Dumont, Beteille, Ambedkar)."
+  },
+  {
+    "id": "SOC_P2_T05",
+    "gs_paper": "SOC_P2",
+    "subject_name": "Tribal Communities in India",
+    "description": "Tribal Communities in India: Definitional Problems, Colonial Policy, Development, Integration and Autonomy, PVTGs."
+  },
+  {
+    "id": "SOC_P2_T06",
+    "gs_paper": "SOC_P2",
+    "subject_name": "Social Classes in India",
+    "description": "Social Classes in India: Agrarian Class, Industrial Class, Middle Class, Subaltern Class."
+  },
+  {
+    "id": "SOC_P2_T07",
+    "gs_paper": "SOC_P2",
+    "subject_name": "Systems of Kinships in India",
+    "description": "Systems of Kinships in India: Descent, Alliance, Family, Marriage, Patriarchy, Regional Variations."
+  },
+  {
+    "id": "SOC_P2_T08",
+    "gs_paper": "SOC_P2",
+    "subject_name": "Religion and Society",
+    "description": "Religion and Society: Cultural Diversity, Religious Minorities, Communalism, Secularism, Religious Sects."
+  },
+  {
+    "id": "SOC_P2_T09",
+    "gs_paper": "SOC_P2",
+    "subject_name": "Visions of social change in India",
+    "description": "Visions of social change in India: Development Planning, Education Policy, Constitutional Provisions."
+  },
+  {
+    "id": "SOC_P2_T10",
+    "gs_paper": "SOC_P2",
+    "subject_name": "Rural and Agrarian Transformation in India",
+    "description": "Rural and Agrarian Transformation in India: Land Reforms, Green Revolution, Cooperative Movements, Migration, Farmer Movements."
+  },
+  {
+    "id": "SOC_P2_T11",
+    "gs_paper": "SOC_P2",
+    "subject_name": "Industrialisation & Urbanisation in India",
+    "description": "Industrialisation & Urbanisation in India: Slums, Informal Sector, Child Labour, Working Class, Urbanization Trends."
+  },
+  {
+    "id": "SOC_P2_T12",
+    "gs_paper": "SOC_P2",
+    "subject_name": "Politics and Society",
+    "description": "Politics and Society: Political Mobilization, Nation Building, Pressure Groups, Political Elites, Decentralization."
+  },
+  {
+    "id": "SOC_P2_T13",
+    "gs_paper": "SOC_P2",
+    "subject_name": "Social Movements in Modern India",
+    "description": "Social Movements in Modern India: Dalit Movements, Farmers' Movements, Environmental Movements, Ethnic Movements, Women's Movements."
+  },
+  {
+    "id": "SOC_P2_T14",
+    "gs_paper": "SOC_P2",
+    "subject_name": "Population Dynamics",
+    "description": "Population Dynamics: Ageing, Sex Ratio, Migration, Reproductive Health, Population Policy."
+  },
+  {
+    "id": "SOC_P2_T15",
+    "gs_paper": "SOC_P2",
+    "subject_name": "Challenges of Social Transformation",
+    "description": "Challenges of Social Transformation: Sustainable Development, Caste Conflicts, Violence Against Women, Displacement, Communal Polarization."
+  }
     ]
   }
   
