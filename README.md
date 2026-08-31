@@ -112,6 +112,7 @@ This project is open source and available under the MIT License.
 
 If you need help customizing this website or have questions, feel free to open an issue or reach out.
 
+
 ---
 
 Built with ❤️ for developers who want a fast, modern personal website.
