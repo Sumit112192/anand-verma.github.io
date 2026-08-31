@@ -5896,7 +5896,6842 @@
         "word_limit": 250,
         "gs_paper": "GS4",
         "official_syllabus_topics": ["GS4_T8"]
-      }
+      },
+
+  {
+    "question_id": "SOC_P1_2025_Q01",
+    "question_text": "In what way is the scope of sociology unique? Explain.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q02",
+    "question_text": "What is the relationship (similarities and differences) between sociology and history in terms of their area of study and methodology? Discuss.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q03",
+    "question_text": "What is common sense? How are common knowledge and sociology related to each other? Explain.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q01",
+    "question_text": "Sociology is the product of European enlightenment and renaissance. Critically examine this statement.",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q02",
+    "question_text": "Discuss the nature of Sociology. Highlight its relationship with Social Anthropology.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q01",
+    "question_text": "Discuss the relationship between Sociology and Political Science.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q02",
+    "question_text": "Do you think that common sense is the starting point of social research? What are its advantages and limitations? Explain.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q01",
+    "question_text": "Delimit the scope of Sociology in relation to other social sciences.",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q02",
+    "question_text": "What aspects of Enlightenment do you think paved way for the emergence of sociology? Elaborate.",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q01",
+    "question_text": "How is Sociology related to common sense?",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q02",
+    "question_text": "From the viewpoint of growing importance of multidisciplinarity, how do you relate sociology to other social sciences?",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q01",
+    "question_text": "In the Context of globalization, has the scope of Sociology been changing in India? Comment.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q02",
+    "question_text": "How did the Intellectual forces lead to the emergence of Sociology? Discuss.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q01",
+    "question_text": "Discuss the historical antecedents of the emergence of Sociology as a discipline",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q01",
+    "question_text": "“The sociological imagination enables us to grasp history and biography and the relationship between the two in the society”. – CW Mills. Explain.",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q02",
+    "question_text": "The focal point of Sociology rests on interaction. How do you distinguish it from common sense?",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q01",
+    "question_text": "Explain how sociology has emerged as a distinct discipline based on rationality and scientific temper.",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q02",
+    "question_text": "Discuss the changing equations of discipline of sociology with other social sciences.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q01",
+    "question_text": "“Sociology is pre-eminently study of modern societies”. Discuss.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q02",
+    "question_text": "Is Sociology common sense? Give reasons in support of your argument.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q01",
+    "question_text": "How had Enlightenment contributed to the emergence of Sociology?",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2014_Q01",
+    "question_text": "Write short answer of the following in about 150 words: How did the emergence of industrial society change the family life in Western Europe?",
+    "year": 2014,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2014_Q02",
+    "question_text": "How is sociological approach to human actions different from that of psychological approach?",
+    "year": 2014,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2013_Q01",
+    "question_text": "“Sociology emerged in Europe and flourished to begin with on social reformist orientation in the USA.” Comment.",
+    "year": 2013,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2013_Q02",
+    "question_text": "Compare and contrast Sociology with Anthropology.",
+    "year": 2013,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2011_Q01",
+    "question_text": "What can Sociology show us about our actions? Discuss the practical significance of Sociology.",
+    "year": 2011,
+    "marks": 30,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q04",
+    "question_text": "What is science? Do you think that the methods used in natural sciences can be applied to sociology? Give reasons for your answer.",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q05",
+    "question_text": "What is positivism? Critically analyze the major arguments against it.",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q03",
+    "question_text": "Do you think ‘objectivity’ is an over-hyped idea in sociological research? Discuss the merits and demerits of non-positivist methods.",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q03",
+    "question_text": "How does the dramaturgical perspective enable our understanding of everyday life?",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q04",
+    "question_text": "What are the characteristics of scientific method? Do you think that scientific method in conducting sociological research is foolproof? Elaborate.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q05",
+    "question_text": "Examine the relevance of corporate social responsibility in a world marked by increasing environmental crises.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q03",
+    "question_text": "What are the shortfalls of positivist philosophy that gave rise to the non-positivist methods of studying social reality?",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q04",
+    "question_text": "How does a researcher achieve objectivity in interpretative research?",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q03",
+    "question_text": "Do you think ethnomethodology helps us in getting reliable and valid data? Justify your answer.",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q04",
+    "question_text": "How far are sociologists justified in using positivist approach to understand social reality? Explain with suitable illustrations.",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q03",
+    "question_text": "Methodology is a system of rules, Principles and procedures, which forms scientific investigation. Comment.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q04",
+    "question_text": "Phenomenological perspectives in Sociology reject many of the assumption of positivism. Comment.",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q05",
+    "question_text": "Is Sociology a value-free Science? Discuss.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q02",
+    "question_text": "Discuss the importance of interpretative understanding of social phenomena and explain its limitations.",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q03",
+    "question_text": "Is non-positivistic methodology scientific? Illustrate",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q04",
+    "question_text": "Distinguish between fact and value in Weber’s Protestant Ethics and Spirit of Capitalism",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q05",
+    "question_text": "Does scientific method make sociology a science? Illustrate your answer with Durkheim’s method.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q03",
+    "question_text": "Examine the basic postulates of positivism and post-positivism.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q04",
+    "question_text": "Elaborate the main tenets of interpretative perspective in sociology.",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q03",
+    "question_text": "Describe the basic postulates of scientific method. How far are these followed in sociological research?",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q04",
+    "question_text": "What is ‘value-free Sociology’? Clarify.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q02",
+    "question_text": "“Non-positivistic methodology is essential for understanding human behaviour”. Discuss.",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q03",
+    "question_text": "Examine the problems of maintaining objectivity and value neutrality in Social Science research.",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q04",
+    "question_text": "Is Sociology a Science? Give reasons for your answer.",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2014_Q03",
+    "question_text": "In what way ‘interpretative’ method is different from ‘positivist’ approach in the study of social phenomena?",
+    "year": 2014,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2014_Q04",
+    "question_text": "How is objectivity different from value neutrality? Discuss with reference to Weber’s views on methodology.",
+    "year": 2014,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2012_Q01",
+    "question_text": "Write short note: Fact, Value and Objectivity",
+    "year": 2012,
+    "marks": 12,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q06",
+    "question_text": "What is sampling in the context of social research? Discuss different forms of sampling with their relative advantages and disadvantages.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q07",
+    "question_text": "What is hypothesis? Critically evaluate the significance of hypothesis in social research.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q08",
+    "question_text": "What do you mean by reliability? Discuss the importance of reliability in social science research.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q09",
+    "question_text": "What is a variable in social research? What are their different types? Elaborate.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q04",
+    "question_text": "What do you understand by ‘mixed method’? Discuss its strengths and limitations in social research.",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q05",
+    "question_text": "How do you view and assess the increasing trend of digital ethnography and use of visual culture in sociological research?",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q06",
+    "question_text": "What are variables? How do they facilitate research?",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q07",
+    "question_text": "What are the ethical issues that a researcher faces in making use of participant observation as a method of collecting data? Explain.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q08",
+    "question_text": "What are the different dimensions of qualitative method? Do you think that qualitative methods help to gain a deeper sociological insight? Give reasons for your answer.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q05",
+    "question_text": "What is reliability? Explain the different tests available to social science researcher to establish reliability.",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q06",
+    "question_text": "Suggest measures to minimize the influence of the researcher in the process of collecting data through focus group discussion.",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q07",
+    "question_text": "Explain the different types of non-probability sampling techniques. Bring out the conditions of their usage with appropriate examples.",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q08",
+    "question_text": "The difference between information and data in social science is subtle. Comment.",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q09",
+    "question_text": "What is the distinctiveness of the feminist method of Social research? Comment.",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q05",
+    "question_text": "Discuss the challenges involved in collecting data through census method.",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q06",
+    "question_text": "How do qualitative and quantitative methods supplement each other in sociological enquiry?",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q06",
+    "question_text": "Analyse the strengths and weakness of social survey method in social research.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q07",
+    "question_text": "Discuss the importance and source of hypothesis in social research.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q03",
+    "question_text": "Explain the probability sampling strategies with examples.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q04",
+    "question_text": "Bring out the significance of ethnography in social research.",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q06",
+    "question_text": "Distinguish between quantitative and qualitative methods of data collection with suitable examples from Indian society.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q07",
+    "question_text": "Explain with examples, the explanatory and exploratory designs of social research.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q05",
+    "question_text": "How can one resolve the issue of reliability and validity in the context of sociological research on inequality?",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q06",
+    "question_text": "Examine epistemological foundations of qualitative methods of social research.",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q07",
+    "question_text": "Illustrate with example the significance of variables in sociological research.",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q05",
+    "question_text": "Discuss the relevance of historical method in the study of society.",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q05",
+    "question_text": "“Participant observation is the most effective tool for collecting facts.” Comment.",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q06",
+    "question_text": "“Hypothesis is a statement of the relationship between two or more variables”. Elucidate by giving example of poverty and illiteracy.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q07",
+    "question_text": "Analyse the importance of qualitative method in social research.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q06",
+    "question_text": "Why is random sampling said to have more reliability and validity in research?",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q07",
+    "question_text": "What are variables? Discuss their role in experimental research.",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2014_Q05",
+    "question_text": "Which research technique would be most suitable for the study of consumer behaviour and its social correlates? Explain.",
+    "year": 2014,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q10",
+    "question_text": "Highlight the main features of historical materialism as propounded by Marx. How far is this theory relevant in understanding contemporary societies? Explain.",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q11",
+    "question_text": "How does Weber’s Verstehen address the objectivity-subjectivity debate in sociology?",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q12",
+    "question_text": "Can Merton’s reference group theory be relevant in understanding ‘identity making’ in digital world? Explain.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q06",
+    "question_text": "How is ‘power’ different from ‘authority’? Discuss various types of authorities as theorized by Max Weber.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q07",
+    "question_text": "Explain G.H. Mead’s idea of development of ‘self’ through the ‘generalised other’.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q08",
+    "question_text": "Describe various characteristics of a ‘social fact’. How is rate of suicide a social fact according to Durkheim?",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q09",
+    "question_text": "Critically explain the salient features of ‘alienation’ as propounded by Karl Marx.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q10",
+    "question_text": "Describe the main idea of Max Weber’s book, The Protestant Ethic and the Spirit of Capitalism as a critique of Marxism.",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q11",
+    "question_text": "Analyse the changing nature of caste as a status group.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q09",
+    "question_text": "What is historical materialism? Examine its relevance in understanding contemporary societies.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q10",
+    "question_text": "Is reference group theory a universally applicable model? Elucidate.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q10",
+    "question_text": "According to Mead the idea of self develops when the individual becomes self-conscious. Explain.",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q11",
+    "question_text": "Critically analyse Parsons views on society as a social system.",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q12",
+    "question_text": "Critically examine the relevance of Durkheim’s views on religion in contemporary society.",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q13",
+    "question_text": "Critically examine how Durkheim and Merton explicate Anomie.",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q14",
+    "question_text": "Durkheim argued that society is more than the sum of individual acts. Discuss.",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q07",
+    "question_text": "With suitable examples, explain how conformity and deviance coexist in a society as propounded by R.K. Merton.",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q08",
+    "question_text": "Do you agree with Max Weber’s idea that bureaucracy has the potential to become an iron cage? Justify your answer.",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q09",
+    "question_text": "Explain whether Durkheim’s theory of Division of Labour is relevant in the present-day context.",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q10",
+    "question_text": "Critically examine the dialectics involved in each mode of production as propounded by Karl Marx.",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q08",
+    "question_text": "Write short note: Mead’s notion of self.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q09",
+    "question_text": "What are the reactions of R.K Merton to the functionalism of social anthropologists? Bring on the limitations of latent functions.",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q10",
+    "question_text": "Analyse the relevance of ‘Pattern Variables’ in the study of Social change.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q11",
+    "question_text": "‘Ideal Types’ of Max Weber are mental constructs; they do not correspond to the reality. Give your views.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q12",
+    "question_text": "What are the problems in observing social facts in Durkheim’s views?",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q13",
+    "question_text": "Critically analyse Durkheim’s views on elementary forms of religious life and role of religion. Also discuss the consequences of religious revivalism in contemporary society.",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q14",
+    "question_text": "Critically assess the Marxian Theory of ‘Alienation’.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q05",
+    "question_text": "According to Mead, “We play a key role in our own socialisation.” Explain.",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q06",
+    "question_text": "How according to Merton, are deviant subcultures generated?",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q07",
+    "question_text": "Discuss the importance of interpretative understanding of social phenomena and explain its limitations.",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q08",
+    "question_text": "How well do you think Tonnies, Durkheim, Weber and Marx predicted the character of modern society? Critique.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q09",
+    "question_text": "What is the Marxist concept of fetishism of commodities.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q08",
+    "question_text": "According to Marx, how are human beings alienated from their human potential and what does he suggest to change this?",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q08",
+    "question_text": "Analyse Marxian conception of historical materialism as a critique of Hegelian dialectics.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q08",
+    "question_text": "Evaluate Marx’s ideas on mode of production.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q09",
+    "question_text": "Explain Durkheim’s basic arguments on suicide. Can you analyse high suicide rates of contemporary Indian society with Durkheim’s theory?",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q09",
+    "question_text": "Discuss distinct sociological method adopted by Emile Durkheim in his study of ‘suicide‘.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q09",
+    "question_text": "How is Durkheim‘s theory of religion different from Max Weber‘s theory of religion?",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q08",
+    "question_text": "Elaborate the views of Durkheim on ―The Elementary Forms of Religious Life.",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q10",
+    "question_text": "Examine Max Weber‘s method of maintaining objectivity in social research.",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q09",
+    "question_text": "Discuss the role of Calvinist ethic in the development of Capitalism.",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2011_Q02",
+    "question_text": "Define Ideal Type and explain Weber’s concept of ‘Verstehen’ for understanding social phenomena.",
+    "year": 2011,
+    "marks": 30,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q10",
+    "question_text": "How can Parsons’ AGIL framework be used to analyse key problems in a society? Discuss.",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q10",
+    "question_text": "Critically analyse Talcott Parsons’ conception of ‘Pattern Variables’.",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q11",
+    "question_text": "Describe the functional prerequisites of social system as given by Talcott Parsons. Examine in the context of a university as a social system.",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q10",
+    "question_text": "How is social equilibrium maintained in Parsonian framework?",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2010_Q01",
+    "question_text": "Write short note on Cybernetic Hierarchy of Control.",
+    "year": 2010,
+    "marks": 15,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q10",
+    "question_text": "What, according to Merton, is the difference between ‘unanticipated consequences’ and ‘latent functions’? Give examples to elaborate.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q11",
+    "question_text": "How, according to Merton, are deviant subcultures generated?",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q11",
+    "question_text": "What is the difference between anomie in Merton and Durkheim?",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q12",
+    "question_text": "Analyse the manifests and latent functions of ‘security of the tenure of bureaucrats’ in the light of Merton‘s theory.",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q11",
+    "question_text": "“Anomie is rooted in social structure”. Explain with reference to R.K. Merton’s contribution.",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q12",
+    "question_text": "According to Mead, “We play a key role in our own socialisation”. Explain",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q12",
+    "question_text": "Do you think, “I” and “Me” are central terms in Mead’s work?",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q12",
+    "question_text": "“Self and Society are twin-born”. Examine the statement of Mead.",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q13",
+    "question_text": "Does the structural-functionalist perspective on social stratification promote a status quo? Give reasons for your answer.",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q14",
+    "question_text": "Compare capability deprivation approach with that of social capital deprivation in understanding chronic poverty.",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q15",
+    "question_text": "Is the social stratification theory gender-blind? Elucidate.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q12",
+    "question_text": "How does a multicultural society accommodate diversities of all kinds — ethnic, linguistic and religious? Discuss its major challenges.",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q13",
+    "question_text": "What is social mobility? Critically examine the classification of ‘closed’ and ‘open’ models of social stratification.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q11",
+    "question_text": "How is poverty a form of social exclusion? Illustrate in this connection the different dimensions of poverty and social exclusion.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q12",
+    "question_text": "Explain Max Weber’s theory of social stratification. How does Weber’s idea of class differ from that of Marx?",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q13",
+    "question_text": "Do you think that the boundary line between ethnicity and race is blurred? Justify your answer.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q15",
+    "question_text": "How do sociologists construct gender in their analysis on social inequality?",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q16",
+    "question_text": "Social stratification is claimed to contribute to the maintenance of social order and stability in society. Critically assess.",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q17",
+    "question_text": "Discuss social mobility in open and closed systems.",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q11",
+    "question_text": "Explain the growing salience of ethnicity in the contemporary world with illustrations.",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q15",
+    "question_text": "How are Hierarchy and Exclusion the major impediments in the transformation of societies? Discuss.",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q16",
+    "question_text": "Critically assess social mobility in closed and open systems.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q13",
+    "question_text": "Davis and Moore made it clear that social stratification is a functional necessity and also an unconscious device. Discuss.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q14",
+    "question_text": "Compare and contrast the contributions of Marx and Weber on social stratification in capitalist society.",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q15",
+    "question_text": "Why is gender a dimension of social stratification? How does gender intersect other dimensions of inequality based on caste, class, race and ethnicity?",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q16",
+    "question_text": "Modernisation presupposes class society; however caste, ethnicity and race are still predominant. Explain.",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q17",
+    "question_text": "Discuss the issues of access and exclusion in higher education in India.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q13",
+    "question_text": "What is the difference between natural and social inequality? Give examples from caste and class dimensions.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q14",
+    "question_text": "Evaluate if social stratification is functional for society.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q15",
+    "question_text": "Schooling does not ensure upward mobility of all members of the society. Discuss with reference to class societies.",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q16",
+    "question_text": "Is social mobility possible in closed systems of stratification? Illustrate from research work.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q11",
+    "question_text": "Examine gender, ethnicity and race as major dimensions of social stratification.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q12",
+    "question_text": "What is Weberian critique of Marxist notion of social stratification?",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q13",
+    "question_text": "Can we equate ‘poverty’ with ‘poor living‘? Elaborate your answer.",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q13",
+    "question_text": "Discuss the relationship between poverty and social exclusion.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q14",
+    "question_text": "Elucidate the basic premises of Davis‘ structural functional theory of social stratification. How far is it relevant in understanding contemporary Indian Society.",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q15",
+    "question_text": "“Vertical mobility brings structural change even in a closed social system”. Comment.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q13",
+    "question_text": "Differentiate between Marxian and Weberian theories of Social Stratification.",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q14",
+    "question_text": "“No society can either be absolutely open or absolutely closed”. Comment.",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2013_Q03",
+    "question_text": "Distinguish between people being socially excluded and people excluding themselves socially in societies.",
+    "year": 2013,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q16",
+    "question_text": "Do you think that the formal workspaces are free of gender bias? Argue your answer.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q17",
+    "question_text": "Critically analyze the sociological significance of informal sector in the economy of developing societies.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q14",
+    "question_text": "Describe the differing principles of work organization in feudal and capitalist societies.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q15",
+    "question_text": "Critically assess the impact of technological advancement and automation on the nature of work and employment.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q16",
+    "question_text": "Define the concept of ‘gig’ economy and discuss its impact on labour market and workers’ social security net.",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q14",
+    "question_text": "Explain how economic globalization has brought changes in the patterns of employment in the 21st century.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q18",
+    "question_text": "What characterizes degradation of work in capitalist society according to Marx?",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q19",
+    "question_text": "Explain the implications of feminization of work in the developing societies.",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q12",
+    "question_text": "Explain the emerging challenges in establishing gender equality in the informal sector.",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q13",
+    "question_text": "How has the idea of ‘Work from Home’ forced us to redefine the formal and informal organization of work?",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q14",
+    "question_text": "Elucidate the main problems and challenges faced by the migrant labourers in the recent ‘Lockdown period’.",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q15",
+    "question_text": "Explain how political parties and pressure groups are dialectically related to each other in terms of achieving their goals.",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q17",
+    "question_text": "Capitalism has brought increasing informalisation of work in society. Substantiate your answer.",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q18",
+    "question_text": "Discuss the new labour codes and their impact on formal and informal labour in India.",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q18",
+    "question_text": "What is ‘informal labour’? Discuss the need for and challenges in regulating informal labour in post-industrial society.",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q19",
+    "question_text": "What is ‘reserve army of labour’? Present the position of feminist scholars on this.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q20",
+    "question_text": "Present a sociological review on the ‘new middle-class’.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q21",
+    "question_text": "Differentiate between ‘Life-chances’ and ‘Life-style’ with suitable examples.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q17",
+    "question_text": "Discuss the nature of social organisation of work in capitalist society with reference to the ‘Limits of the working day’.",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q18",
+    "question_text": "What is labour commitment? Discuss it with reference to studies of manufacturing industries.",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q14",
+    "question_text": "Trace the changing nature of organisation of work in capitalist society over the years.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q15",
+    "question_text": "What do you understand by ‘informalisation of labour’? Write your answer with special reference to India.",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q16",
+    "question_text": "“Globalization has pushed the labour into informal organization of work”. Substantiate your answer with suitable examples.",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q17",
+    "question_text": "Describe the nature of social organization of work in Industrial Society.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q15",
+    "question_text": "The increasing importance of the tertiary sector has weakened the formal organization of work in recent times. Examine the statement.",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q16",
+    "question_text": "Distinguish between the social organization of work in feudal society and in capitalist society.",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q18",
+    "question_text": "What would you identify as the similarities and differences in the elite theories of Mosca, Michels and Pareto? Discuss their main/crucial issues.",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q19",
+    "question_text": "Are pressure groups a threat to or a necessary element of democracy? Explain with suitable illustrations.",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q20",
+    "question_text": "How do ‘Civil Society Organizations’ such as ‘NGOs’ and ‘Self-Help Groups’ contribute in bringing down/provide leverage for grassroots level social changes? Discuss.",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q21",
+    "question_text": "How can you assess the significance of social movements in the digital era? Explain.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q17",
+    "question_text": "Discuss the dimensions of power in the construction and maintenance of social hierarchies in a society.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q18",
+    "question_text": "Underline the role of social media in contemporary social movements and describe its challenges.",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q19",
+    "question_text": "Democracy needs a vibrant culture of civil society in order to strengthen its foundation of citizenship. Comment.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q15",
+    "question_text": "Is Weber’s idea of bureaucracy a product of the historical experiences of Europe? Comment.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q16",
+    "question_text": "What, according to Robert Michels, is the iron law of oligarchy? Do lions and foxes in Vilfredo Pareto’s theory, essentially differ from each other? Substantiate",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q17",
+    "question_text": "How is civil society used in deepening the roots of democracy?",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q18",
+    "question_text": "Do you think that the social media has brought significant changes in the forms of protest? Argue your case.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q20",
+    "question_text": "Analyse the nature of transition from ideology to identity politics India",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q21",
+    "question_text": "Discuss how ‘environmentalism’ can be explained with new social movements approach.",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q22",
+    "question_text": "Illustrate with examples the role of pressure groups in the formulation of social policies",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q16",
+    "question_text": "Critically examine the relevance of Vilfredo Pareto’s theory of Circulation of Elites in the present scenario.",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q17",
+    "question_text": "Highlight the roles and function of civil society in a democratic system",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q19",
+    "question_text": "According to Mills, “Elite’s rule in institutional terms rather than psychological terms.” Comment.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q20",
+    "question_text": "Explain democracy as an order of society. What are the factors preventing people’s participation people’s participation in politics?",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q21",
+    "question_text": "Examine how social movements come to an end. Illustrate with examples.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q22",
+    "question_text": "What is civil society? Present a note on civil society engagement in science and technology policy in India.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q23",
+    "question_text": "What are the theoretical models of societal power? Which one of them is most applicable in advanced industrial societies?",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q24",
+    "question_text": "Discuss the concept of circulation of elite.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q19",
+    "question_text": "Are social movements primordial in means and progressive in agenda? Explain.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q20",
+    "question_text": "What, according to Pareto, are the basic characteristis of elites? Discuss.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q16",
+    "question_text": "Examine the dynamics of pressure groups in multi-party political system.",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q17",
+    "question_text": "What is new in ‘new social movements’? Elaborate your answer with special reference to India.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q18",
+    "question_text": "Discuss the changing interface between state and civil society in post independent India",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q18",
+    "question_text": "To what extent revolution replaces the existing order of society? Discuss.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q19",
+    "question_text": "Examine the role of protest movements in changing the status of Dalits in India.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q20",
+    "question_text": "Discuss the importance of ‘power elite‘ in democracy.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q17",
+    "question_text": "“Globalization involves deterritorialization”. Examine with reference to the nation-state",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q18",
+    "question_text": "Caste ideology appears to have strengthened democracy. Comment.",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q19",
+    "question_text": "Explain the conditions under which a collective action transforms into a social movements",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q20",
+    "question_text": "“Ideology is crucial for social transformation in a democracy”. Discuss.",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2014_Q06",
+    "question_text": "“Power is not a zero-sum game”. Discuss with reference to Weber‘s and Parsons‘views.",
+    "year": 2014,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2012_Q02",
+    "question_text": "Write short notes: Citizenship and civil society",
+    "year": 2012,
+    "marks": 12,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q22",
+    "question_text": "How do theories of Marx, Weber and Durkheim differ in understanding religion? Explain.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q23",
+    "question_text": "What is the nature of relationship between science and religion in modern society? Analyze with suitable examples.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q20",
+    "question_text": "How do you understand the phenomena of the mushrooming of sects and cults in contemporary society? Discuss the factors responsible for the trend.",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q21",
+    "question_text": "Do modernization and secularization necessarily go together? Give your views.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q22",
+    "question_text": "Discuss the concept of animism and differentiate it from naturism.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q19",
+    "question_text": "What is Taylorism? Analyze its merits and demerits.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q20",
+    "question_text": "What are new religious movements? Elaborate emphasizing their forms and orientations.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q21",
+    "question_text": "Highlight the differences and similarities between totemism and animism.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q22",
+    "question_text": "What functions does religion perform in a pluralistic society?",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q23",
+    "question_text": "Write a note on global trends of secularization.",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q24",
+    "question_text": "How do-little tradition and great tradition coexist in contemporary Indian society?",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q18",
+    "question_text": "Critically compare the views of E.B. Tylor and Max Muller on Religion.",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q19",
+    "question_text": "What is cult? Explain the growth of cults in the contemporary world.",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q20",
+    "question_text": "Give your comments on the growth of religious revivalism in the present-day context.",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q22",
+    "question_text": "State the reasons for the various religious beliefs and practices in pre-modern societies.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q25",
+    "question_text": "Are all world religions patriarchal? Substantiate your answer with examples.",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q21",
+    "question_text": "What are sects? Discuss their role in multi-religious societies with empirical examples.",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q22",
+    "question_text": "In what way did Durkheim perceive religion as functional to society?",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q23",
+    "question_text": "Discuss the challenges thrown by religious revivalism to a secular nation-state.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q19",
+    "question_text": "Elaborate on various types of religious practices prevalent in Indian society",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q20",
+    "question_text": "Problematise the concept of secularism in the present context",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q21",
+    "question_text": "Give an assessment of Durkheimian notion of ‘sacred’ and ‘profane’ in sociology of religion.",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q21",
+    "question_text": "“Religious pluralism is the order of present–day societies”. Explain by giving suitable examples.",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q22",
+    "question_text": "Is religion playing an important role in increasing fundamentalism? Give reasons for your answer.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q21",
+    "question_text": "Define Secularisation. What are its major dimensions in the modern world?",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q22",
+    "question_text": "Distinguish between sects and cults with illustrations.",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2014_Q07",
+    "question_text": "How is religious revivalism different from communalism? Elaborate with suitable examples from the Indian context.",
+    "year": 2014,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2013_Q04",
+    "question_text": "“Science has empirical means to logical ends and religion has non-empirical means to logical ends”. Comment.",
+    "year": 2013,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q24",
+    "question_text": "Give an account of the recent trends of marriage in the Indian context. How are these different from traditional practices?",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q25",
+    "question_text": "What do you understand by gender-based domestic division of labour? Is it undergoing a change in the wake of increasing participation of women in formal employment? Clarify your answer with illustrations.",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q26",
+    "question_text": "In what way does queer kinship challenge the traditional kinship system? Substantiate by giving illustrations.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q23",
+    "question_text": "Modern families have not just become nuclear and neo-local, but also filiocentric. How do you explain this trend?",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q24",
+    "question_text": "What are the ‘basic and irreducible’ functions of the family as proposed by Talcott Parsons? Explain.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q25",
+    "question_text": "Marriage as an institution has undergone a radical transformation from ‘ritual’ to ‘commercial’ in its outlook. Explain the factors behind this change.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q23",
+    "question_text": "Analyze critically David Morgan’s views on family practices.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q24",
+    "question_text": "How do you assess the changing patterns in kinship relations in societies today?",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q25",
+    "question_text": "Does women’s education help to eradicate patriarchal discriminations? Reflect with illustrations.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q25",
+    "question_text": "Discuss various theoretical perspectives on the family.",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q26",
+    "question_text": "How do you understand the relationship between patriarchy and social development?",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q21",
+    "question_text": "Explain how the pattern of patriarchy is being altered in a family and at the workplace in the present context.",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q22",
+    "question_text": "Is male authority absent in matrilineal society? Discuss.",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q23",
+    "question_text": "Discuss the changing nature of kinship relations in the contemporary world.",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q23",
+    "question_text": "What is the impact of gender division of labour on the development of society?",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q24",
+    "question_text": "Discuss the consequences of Across Region marriage on kinship system in modern Indian society.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q25",
+    "question_text": "Does the institution of marriage continue to be sacred in Indian society? Comment.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q26",
+    "question_text": "In the light of judicial intervention on ‘Live-in relationships’, discuss the future of family and marriage in India.",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q27",
+    "question_text": "What, according to Irawati Karve, are the major differences between North Indian and South Indian Kinship systems?",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q28",
+    "question_text": "Feminist scholars argue that ‘New Media’ is masculine and hence reinforces structural hierarchies rather than reconfiguring them. Comment.",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q24",
+    "question_text": "What are the new forms of family in developed societies? Discuss.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q25",
+    "question_text": "Distinguish between family and household with reference to the concept of the deveiopment of household.",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q26",
+    "question_text": "Define patriarchy. How does patriarchy manifest in interpersonal relations?",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q22",
+    "question_text": "Discuss the regional variations of kinship system in Indian society.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q23",
+    "question_text": "Examine the relationship between the contemporary trends in marriage and changing forms of family.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q24",
+    "question_text": "Examine ‘patriarchal bargain’ as gendered division of work in contemporary India.",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q23",
+    "question_text": "Distinguish between family and household as sociological concepts.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q24",
+    "question_text": "Discuss the contemporary trends in family as a response to social change in modern society.",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q23",
+    "question_text": "How do the rules of descent and alliance in kinship differ from each other? Illustrate.",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q24",
+    "question_text": "Is male authority absent in matrilineal society? Discuss.",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2013_Q05",
+    "question_text": "Examine the emerging trends in marriage and family as a response to the changes in economic and social order.",
+    "year": 2013,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2012_Q03",
+    "question_text": "Describe the importance of lineage and descent in kinship and family.",
+    "year": 2012,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q27",
+    "question_text": "What do you understand by sustainable development? Discuss the elements of sustainable development as proposed in the UNDP’s Sustainable Development Goals Report–2015.",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2025_Q28",
+    "question_text": "To what extent can education and skill development be an agent of social change? Critically discuss.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q26",
+    "question_text": "Critically examine the World-Systems theory of Immanuel Wallerstein in terms of development and dependency of various nations.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q27",
+    "question_text": "Discuss various theories of social change. Explain the limitations of unilinear theory of social change.",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2024_Q28",
+    "question_text": "Critically examine the roles of science and technology in social change. What is your opinion on their increasing trend in ‘online’ education and teaching?",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q26",
+    "question_text": "Assess critically A. G. Frank’s theory of development of underdevelopment’.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2023_Q27",
+    "question_text": "Examine the role of science and technology in addressing age-old taboos and superstitions.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q27",
+    "question_text": "Trace the trajectory of development perspectives on social change.",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q28",
+    "question_text": "Sociologists argue for democratization of science and technology for inclusive development. Comment.",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2022_Q29",
+    "question_text": "Are traditional social institutions getting weakened as agents of social change in the contemporary society? Substantiate.",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q24",
+    "question_text": "Describe the role of Science & Technology in enabling us to face the challenges triggered by the COVID – 19 pandemics.",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2021_Q25",
+    "question_text": "Critically examine the contribution of dependency theories in understanding the present global scenario.",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q26",
+    "question_text": "Is humanity at the mercy of Nature, Science, and Technology? Comment in the light of the pandemic situation.",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q27",
+    "question_text": "Education is often viewed as an agency of social change. However, in reality it could also reinforce inequalities and conservatism. Discuss.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q28",
+    "question_text": "Technology has accelerated the process of development and dependency. Discuss.",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q29",
+    "question_text": "How does Marx view social conflict as an essential element in social change?",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2020_Q30",
+    "question_text": "According to Durkheim, “The major function of education is the transmission of society’s norms and values.” Discuss.",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q29",
+    "question_text": "Critique AG Frank’s ‘development of underdevelopment’.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q30",
+    "question_text": "How well do you think Tonnies, Durkheim, Weber and Marx predicted the characteristics of modern society? Critique.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q31",
+    "question_text": "What is affirmative action? Substantiate theoretical positions on affirmative actions with examples.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2019_Q32",
+    "question_text": "How is terrorism a new form of asymmetrical warfare? What are some of the challenges in trying to win the war on terrorism?",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q27",
+    "question_text": "Is the theory of cultural lag valid in present times? Discuss.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2018_Q28",
+    "question_text": "Does collapse of functionalism and bankruptcy of Marxism coincide with the rupture of modernity. Discuss.",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q25",
+    "question_text": "Critically analyse the role of science and technology in bringing about social change.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q26",
+    "question_text": "Assess the role of mass media as an agent of social change.",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2017_Q27",
+    "question_text": "Examine any two theories of social change in detail.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q25",
+    "question_text": "“Education is a major source of social mobility in contemporary society”. Explain.",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q26",
+    "question_text": "“Social change can be brought about through development”. Illustrate from the contemporary situation of India.",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2016_Q27",
+    "question_text": "“Social conflict is both a cause and a consequence of social change”. Explain.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q25",
+    "question_text": "Examine the dialectical relation between tradition and modernity in the study of social change.",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q26",
+    "question_text": "“Education helps in perpetuating social and economic inequalities”. Critically examine the statement.",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P1_2015_Q27",
+    "question_text": "Explain the relevance of the idea of ‘cultural lag‘ in understanding social change.",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P1",
+    "official_syllabus_topics": [
+      "SOC_P1_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q01",
+    "question_text": "How would you appropriate to characterise G. S. Ghurye as a practitioner of ‘theoretical pluralism’?",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": []
+  },
+  {
+    "question_id": "SOC_P2_2025_Q02",
+    "question_text": "‘Textual perspective is important in understanding of Indian Social System.’ Discuss.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": []
+  },
+  {
+    "question_id": "SOC_P2_2024_Q01",
+    "question_text": "Differentiate between ‘Western’ and ‘Indological’ perspectives on the study of Indian society. Bring out the major aspects of G. S. Ghurye’s contribution to the ‘Indological’ approach.",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": []
+  },
+  {
+    "question_id": "SOC_P2_2023_Q01",
+    "question_text": "Examine the concept of ‘Cultural Pluralism’ in the context of India’s Unity in Diversity.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": []
+  },
+  {
+    "question_id": "SOC_P2_2023_Q02",
+    "question_text": "Highlight the significant features of A.R. Desai’s ‘Dialectical Perspective’ to study Indian Society.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": []
+  },
+  {
+    "question_id": "SOC_P2_2022_Q01",
+    "question_text": "Elaborate on M.N. Srinivas’ structural-functionalist approach to the study of Indian society.",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": []
+  },
+  {
+    "question_id": "SOC_P2_2022_Q02",
+    "question_text": "Critically examine G.S. Ghurye’s Indological approach to the understanding of Indian society.",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": []
+  },
+  {
+    "question_id": "SOC_P2_2020_Q01",
+    "question_text": "Elaborate A. R. Desai’s perspective to the study of Indian society.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": []
+  },
+  {
+    "question_id": "SOC_P2_2019_Q01",
+    "question_text": "Give an account of Ranajit Guha’s approach in studying ‘subaltern class’.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": []
+  },
+  {
+    "question_id": "SOC_P2_2019_Q02",
+    "question_text": "Elaborate Srinivas’ views on religion and society among the Coorgs.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": []
+  },
+  {
+    "question_id": "SOC_P2_2018_Q01",
+    "question_text": "Write a note on G. S. Ghurye’s Indological perspective of understanding Indian society.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": []
+  },
+  {
+    "question_id": "SOC_P2_2018_Q02",
+    "question_text": "Analyze A. R. Desai’s views on India’s path of development.",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": []
+  },
+  {
+    "question_id": "SOC_P2_2017_Q01",
+    "question_text": "Write a critique of the structural and functional Perspective used by M.N. Srinivas in the understanding of Indian society.",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": []
+  },
+  {
+    "question_id": "SOC_P2_2016_Q01",
+    "question_text": "Salient features of A.R. Desai’s Marxist Sociology.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": []
+  },
+  {
+    "question_id": "SOC_P2_2015_Q01",
+    "question_text": "Discuss Marxist approach to the analysis of Indian nationalism.",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": []
+  },
+  {
+    "question_id": "SOC_P2_2025_Q03",
+    "question_text": "Do you think that new economic reforms of British rule have disrupted the old economic system of India? Substantiate your answer with suitable examples.",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q04",
+    "question_text": "Do you think that in a society like India orthogenetic changes take place through differentiation? Do you observe continuities in the orthogenetic process? Elaborate your answer with suitable examples.",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q05",
+    "question_text": "According to you, which social reform movement has played the most effective role in uplifting the status of women? Explain.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q06",
+    "question_text": "Justify that the Indian traditions are modernizing. Also discuss its contributing factors.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q02",
+    "question_text": "Highlight the major contributions of the reform movements in pre-independent India.",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q03",
+    "question_text": "Examine the social background of growth of Indian nationalism.",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q01",
+    "question_text": "Discuss in detail the major contribution of Prof. Yogendra Singh in theorizing India’s modernization.",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q02",
+    "question_text": "Banning Practice of ‘Sati’ is attributed to annihilation of a major social evil in colonial Indian. Comment.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q03",
+    "question_text": "Colonial administrators helped to construct the very traditionalism which marked the Indian society as ‘backward’. Comment critically.",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q03",
+    "question_text": "Illustrate the contributions of Tebhaga movement to the peasant struggles in India.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q04",
+    "question_text": "Do you think that the Indian saints have brought about social reform and awareness in Indian society? Explain.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q03",
+    "question_text": "Examine sociological dynamics of Champaran peasant movement in colonial India",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q02",
+    "question_text": "Discuss Yogendra Singh’s thesis on Modernization of Indian Tradition and evaluate its applicability in the present day context.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q03",
+    "question_text": "The main objectives of socio-religious movements during the colonial rule in India were, reforming and synthesizing. Hinduism. Write on any two such important movements.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q02",
+    "question_text": "Anti-Brahmanical movements during the colonial period.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q02",
+    "question_text": "Discuss the paradigm of modernisation of Indian tradition in analyzing social change in India.",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q03",
+    "question_text": "Analyze Gandhi as a moralist, ascetic and man of action through his Hind Swaraj.",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q04",
+    "question_text": "Jyoti Rao Phule as an agrarian radical.",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q05",
+    "question_text": "Discuss Marxist approach to the analysis of Indian nationalism.",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T01"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q07",
+    "question_text": "Who is said to be the pioneer of village studies in India? Illustratively describe contributions of some Indian sociologists on village studies. How their approaches are distinct from each other?",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q03",
+    "question_text": "Identify different forms of inequalities associated with agrarian social structure in India.",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q03",
+    "question_text": "Do you agree with the view of Andre Beteille that India’s villages are representative of Indian society’s basic civilizational values? Present a sociological overview.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q04",
+    "question_text": "Discuss the main features of Land Reforms in post-independence India.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q05",
+    "question_text": "“The decade of 1950 was the golden period of village studies in Indian Sociology.” Explain the statement.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q04",
+    "question_text": "Do you agree that the agrarian class structure in India is changing? Justify your answer with illustrations.",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q05",
+    "question_text": "Discuss the challenges during village studies in India.",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q02",
+    "question_text": "Examine the factors responsible for the rural unrest in contemporary India.",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q03",
+    "question_text": "Discuss the role of technology in agrarian change in India.",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q05",
+    "question_text": "Examine the changing initiatives of the land tenure system in India.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q06",
+    "question_text": "Critically examine Dube’s contributions to the study of Indian villages.",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q04",
+    "question_text": "Give a critical analysis of Andre Beteille’s study of Tanjore village.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q03",
+    "question_text": "Analyse the major components of Land Reform Acts. Show their effectiveness in curbing rural inequality.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q04",
+    "question_text": "Significance of Village Studies in Indian Sociology.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2011_Q01",
+    "question_text": "Comment on the factors responsible for the growth and consolidation of middle level peasantry in rural in India. How is it related to capitalism in Indian agriculture?",
+    "year": 2011,
+    "marks": 30,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T02"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q04",
+    "question_text": "What are the different forms of untouchability still practised in India? Discuss with suitable illustrations.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q05",
+    "question_text": "What, according to you, are the factors responsible for the continuance of caste system in India? Explain.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q06",
+    "question_text": "Analyse the differences between the attributional and interactional approach in studying the caste system.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q07",
+    "question_text": "Critically examine the concept of Sanskritization with suitable illustrations",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q08",
+    "question_text": "Contextualize Louis Dumont’s concept of ‘binary opposition’ with reference to caste system in India.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q09",
+    "question_text": "Are Tradition and Modernity antithetical to each other? Comment.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q06",
+    "question_text": "In the context of the changing Indian society, how do you view Andre Beteille’s conceptions of harmonic and disharmonic social structures?",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q07",
+    "question_text": "Explain different forms of untouchability in India",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q04",
+    "question_text": "Caste System studies in India have been dominated by the “book -view” initially. How did the entry of “field- view” bring about a balance in the study of Indian caste system? Discuss.",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q05",
+    "question_text": "What does Dr. B.R Ambedkar mean by the concept of “Annihilation of Caste”?",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q06",
+    "question_text": "Caste-like formations are present in Non-Hindu religious communities as well. Discuss with examples.",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q07",
+    "question_text": "Is Indian society moving from “hierarchy” towards “differentiation”? Illustrate your answer with suitable examples.",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q08",
+    "question_text": "What are the various forms of untouchability in India? Critically examine.",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q04",
+    "question_text": "“Indian caste system is unique and has been unhealthy for the growth of Sociology of India”. How far do you agree with this view?",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q05",
+    "question_text": "Discuss Whitehead’s contention that caste has the potential to displace class and colonial contradiction.",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q06",
+    "question_text": "How do you justify Dumont’s deliberate stress on ideology that produced intellectualized account of Indian society?",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q07",
+    "question_text": "Write a note on Ghurye’s conception of caste in India.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q08",
+    "question_text": "What is caste politics? Substantiate your answer with examples of how identities are defined by caste dynamics.",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q05",
+    "question_text": "What do you understand by discrete castes and muddled hierarchies? Substantiate your answer with suitable illustrations.",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q04",
+    "question_text": "What, according to you, are the two fundamental axes of social discrimination in Indian society? Are they changing?",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q05",
+    "question_text": "What are the changes in the cultural and structural aspects of the caste system since independence?",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q06",
+    "question_text": "How have the struggles against untouchability changed their forms and perspectives from Gandhian to Ambedkarite positions?",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q07",
+    "question_text": "Which is more significant, the principle of ‘hierarchy’ or the principle of ‘difference’, in intercaste relations in the present day?",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q05",
+    "question_text": "Different forms of Dalit assertion.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q06",
+    "question_text": "Comment on the increasing significance of caste in politics.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q07",
+    "question_text": "Discuss Andre Beteille’s account of the relationship between caste, class and power as a change from symmetrical to asymmetrical one.",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q08",
+    "question_text": "How has B.R. Ambedkar identified the features of caste system? How is it different from the mainstream treatment of caste features?",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q06",
+    "question_text": "How far Srinivas’ Sanskritization is modernizing force or traditionalizing force in understanding the changes in caste system?",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q07",
+    "question_text": "Is caste system changing, weakening or disintegrating in India?",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q08",
+    "question_text": "How far Gandhi was trusted by the untouchables?",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q09",
+    "question_text": "Louis Dumont’s perspective on Indian caste system",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T03"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q08",
+    "question_text": "How did Colonial Policies for the tribes affect their socio-economic conditions in India? Discuss.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q06",
+    "question_text": "Analyse the trilogy between environmental movement, development and tribal identity.",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q07",
+    "question_text": "What are the definitional problems involved in identifying tribes in India? Discuss the main obstacles to tribal development in India.",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q10",
+    "question_text": "Analyse the perspectives of Isolation, Assimilation and Integration in understanding the trajectories of Indian Tribal Development.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q07",
+    "question_text": "Explain the definitional problems concerning the tribal communities in India.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q08",
+    "question_text": "Examine the colonial policy of segregation of tribes under the Government of India Act 1935.",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q09",
+    "question_text": "Comment on the growing assertion of tribal community for autonomy in India.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q10",
+    "question_text": "What is ethno-nationalism? Examine the critical factors responsible for tribal discontent in India.",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q06",
+    "question_text": "Discuss development induced displacement in the context of tribal uprising in India. Substantiate your answer with any one detailed illustration from India.",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q08",
+    "question_text": "Why have we started using another category of tribes called the Particularly Vulnerable Tribal Groups (PVTGs)? Why are they so called?",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q09",
+    "question_text": "What is the nature of religious change among tribal communities? Illustrate with two examples from colonial and post independence times.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q09",
+    "question_text": "How is the tribal question related with the issues of integration and autonomy in modern India?",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q10",
+    "question_text": "“Isolationism” as a dominant feature of colonial tribal policy",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q10",
+    "question_text": "Main objectives of Tribal Sub-Plan (TSP).",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q11",
+    "question_text": "Verrier Elwin’s views on freedom for the tribals",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2012_Q01",
+    "question_text": "Has geographic and economic mobility impacted the tribal culture and social structure? Give examples.",
+    "year": 2012,
+    "marks": 30,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T04"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q09",
+    "question_text": "‘Agrarian class structure has been undergoing changes due to modern forces.’ Critically examine.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q10",
+    "question_text": "‘Industrial class structure is a function of social structure of Indian society.’ Do you agree with this statement? Analyze.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q11",
+    "question_text": "Describe the main features of Indian new middle class. How is it different from the old middle class?",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q08",
+    "question_text": "What, according to André Béteille, are the bases of agrarian class structure in India? Analyse.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q09",
+    "question_text": "Discuss the changes taking place in the industrial class structure in India.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q11",
+    "question_text": "Explain the implication and the impact of globalization in situating the changing agrarian class structure in India.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q12",
+    "question_text": "Elaborate the salient features and the role of middle class in India’s democracy and development.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q08",
+    "question_text": "Do you agree that the agrarian class structure in India is changing? Justify your answer with illustrations",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q09",
+    "question_text": "Discuss the salient features of “new middle class” in India.",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q09",
+    "question_text": "How does Andra Beteille Justify ‘middle class in India?",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q11",
+    "question_text": "Give an account of Ranajit Guha’s approach in studying sub-altern class.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q07",
+    "question_text": "Write a note on changing roles of middle class women in India.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q08",
+    "question_text": "How has the New Economic Policy (1991) affected the lifestyle and life-chances of new middle class in India.",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q11",
+    "question_text": "What accounts for the growth & consolidation of the middle classes in modern India?",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2012_Q02",
+    "question_text": "Discuss the factors which contributed to industrial modernization in India. What are the salient features of new industrial class structure?",
+    "year": 2012,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T05"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q12",
+    "question_text": "How same sexed marriages are responsible for population dynamics in India? Discuss.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q13",
+    "question_text": "What is kinship? Briefly explain G. P. Murdock’s contribution to the study of the kinship system.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q10",
+    "question_text": "Why is the study of marriage important in Sociology? Analyse the implications of changing marriage patterns for Indian society.",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q11",
+    "question_text": "Do you think that family bondings are being affected by the changing kinship patterns in India? Comment.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q12",
+    "question_text": "Is patriarchy a key to understanding different forms of inequalities in Indian society? Elaborate.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q13",
+    "question_text": "Define the concepts of ‘Descent’ and ‘Alliance’. Differentiate between North Indian and South Indian Kinship systems with examples.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q14",
+    "question_text": "Analyse the role of market and modern forces in understanding the changing trends in marriage systems in India.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q09",
+    "question_text": "Discuss the material basis of patriarchy as an ideological system.",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q10",
+    "question_text": "Discuss the conceptual issues about lineage and descent in India. Give suitable illustrations.",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q11",
+    "question_text": "Analyze household dimensions of family in India.",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q12",
+    "question_text": "Define patriarchy. Does it have bearings on women’s entitlement in Indian family system? Explain.",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q09",
+    "question_text": "Illustrate the importance of ‘Kanyadan’ and ‘Kulabadhu’ in changing institutions of marriage and family.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q10",
+    "question_text": "Discuss the issues relating to entitlement of transgender in Indian society.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q10",
+    "question_text": "Compare the North Indian Kinship System with the South Indian Kinship System.",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q11",
+    "question_text": "Clarify the distinction between “household” and “family‟ and evaluate whether joint families have completely disintegrated.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q12",
+    "question_text": "Comment on the factors behind the changing status of women in urban India",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q13",
+    "question_text": "Bring out the significance of the difference between family and household.",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q14",
+    "question_text": "Patriarchy as a form of dominance.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q12",
+    "question_text": "Why is it necessary to implement PCPNDT Act in India?",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q13",
+    "question_text": "What is patriarchy? How does it affect the child socialization pattern in India?",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q14",
+    "question_text": "Give some of the important studies relating to the structural changes in the Indian family system.",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q15",
+    "question_text": "Feminization of poverty",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T06"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q13",
+    "question_text": "How do religious communities contribute to the cultural diversity of India?",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q10",
+    "question_text": "Discuss the problems of religious minorities in India and suggest measures to solve them.",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q12",
+    "question_text": "Write a note on cultural pluralism’ in multi – religious society like India.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q13",
+    "question_text": "How do you understand the minority question? Examine the violence and discrimination against the religious minorities in India.",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q11",
+    "question_text": "Discuss the growth of religious sects in India.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q12",
+    "question_text": "Write a critical narrative on the concerns of religious minorities in India.",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q13",
+    "question_text": "Assess the impact of ban on ‘Triple Talaq’ on marriage and divorce among the Muslim community in India.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q12",
+    "question_text": "What are the distinct features of Islam as practiced in India, and how have they changed over time?",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q15",
+    "question_text": "Elucidate the concepts of ‘majoritarianism’ and ‘minoritarianism’ in accentuating communal tensions in India.",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q16",
+    "question_text": "What are the basic tenets of Hindu religion? Is Hinduism based on monotheism or polytheism?",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2011_Q02",
+    "question_text": "Distinguish between secularism and secularization Analyse the nature and extent of secularization in contemporary India.",
+    "year": 2011,
+    "marks": 30,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T07"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q14",
+    "question_text": "“Educational development is the only Panacea for country’s all ills and evils.” Critically examine the above statement with reference to NEP-2020.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q14",
+    "question_text": "Analyse the trilogy between environmental movement, development and tribal identity.",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q15",
+    "question_text": "Critically examine the relevance of development planning in India.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q16",
+    "question_text": "Education is a key to social development. Elucidate.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q17",
+    "question_text": "Do you think that the constitutional provisions for women have led to their uplift? Give reasons for your answer.",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q15",
+    "question_text": "Highlight the salient features of the New Education Policy (NEP) 2020.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q11",
+    "question_text": "“Instead of promoting equality in society, the present system of education itself has contributed to increased socio-economic disparities.” Comment.",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q10",
+    "question_text": "Analyse the idea of development planning in India.",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q11",
+    "question_text": "Explain the sociological significance of the New Education Policy and its thrust on vocationalization and skill development.",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q13",
+    "question_text": "Discuss in detail the main issues of development planning in mixed economy like India?",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q14",
+    "question_text": "How does the New Education Policy, 2020 1 aim to eradicate disparities in the system of education in India?",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q14",
+    "question_text": "Comment on the critical issues of commercialization of higher education in India.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q15",
+    "question_text": "Examine the importance of Development Planning in Indian Mixed Economy, analyze its problems its problems and prospects.",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q14",
+    "question_text": "Elaborate the concept of constitutional morality as given by BR Ambedkar",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q15",
+    "question_text": "Assess the role of State in promoting education for girl child.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q17",
+    "question_text": "Important components of National Education Policy in India.",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T08"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q15",
+    "question_text": "What are the Indian government’s schemes launched for poverty alleviation after the United Nation’s Declaration of ‘Sustainable Development Goals – 2015’ ? Briefly describe.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q16",
+    "question_text": "Bring out various factors responsible for degeneration of village Industries in India",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q17",
+    "question_text": "‘The transfer of land from cultivating to the non-cultivating owners is bringing about transformation in Indian society.’ Justify your answer by giving suitable illustrations.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q18",
+    "question_text": "Do you think that forced displacement of labourers has caused their deprivation and resultant inequalities during the recent past years? Elaborate.",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q19",
+    "question_text": "What are the major problems faced by the labour migrants while working in informal sectors of Indian States? Discuss.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q18",
+    "question_text": "Despite the efforts of the government, bonded labour still continues in India. Discuss.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q16",
+    "question_text": "Discuss the challenges faced by the cooperative movements in India. Suggest measures to strengthen the movement at the grass-roots level.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q17",
+    "question_text": "What is ‘reverse migration’? Discuss its features, causes and consequences in India.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q18",
+    "question_text": "Critique the victory narratives of Green Revolution in the context of Indian society.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q12",
+    "question_text": "Explain how land reforms brought about desired agrarian transformation.",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q13",
+    "question_text": "What role do co-operatives play in poverty alleviation in rural India?",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q12",
+    "question_text": "What are the sociological reasons and implication of “reverse migration” during the recent pandemic in India?",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q13",
+    "question_text": "Comment on the role of co- operatives in rural development.",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q15",
+    "question_text": "Discuss the dynamics of ‘migrant workers’ in India in the context of Corona pandemic.",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q16",
+    "question_text": "Do you think MSP (Minimum Support Price) Scheme for agricultural produce can help in rural development? Elaborate your response with suitable examples.",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q17",
+    "question_text": "Point out the benefits of ‘green chemistry’ for agrarian transformation in India.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q16",
+    "question_text": "Discuss the challenges the implementing the Rural Development Programmes in India.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q16",
+    "question_text": "Has Green Revolution led to the formation of new power elite in rural India? Elaborate your answer.",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q17",
+    "question_text": "What are the issues relating to male migration and its impact on birth rate? Does it necessarily result in skewed sex ratio?",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q13",
+    "question_text": "Indebtedness is one of the serious issues leading to farmer’s suicides. Discuss reasons and suggest solutions.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q14",
+    "question_text": "Write a short note on ‘changing means of production and increased rural poverty.’",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q16",
+    "question_text": "Bring out the impact of the declining significance of the agrarian economy.",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q17",
+    "question_text": "Write a note on the uneven impact of ‘Green Revolution’ on rural society.",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T09"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q20",
+    "question_text": "Discuss the trend of urbanization in India. Do you think that Industrialization is the only precondition of urbanization? Give your arguments.",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q21",
+    "question_text": "Do you think that law has been able to abolish child labour in India? Comment.",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q19",
+    "question_text": "Are slums the manifestations of industrialisation and urbanisation in India? Explain.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q20",
+    "question_text": "Is there a connection between labour migration and informal sector? Justify your answer with reference to Indian context.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q21",
+    "question_text": "Examine with suitable examples the recent trends in the growth of urban settlements in India.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q19",
+    "question_text": "Discuss the phenomenon of rural-urban continuum with suitable examples.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q20",
+    "question_text": "What actionable measures would you suggest to curb the recurrent child labour menace in India?",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q14",
+    "question_text": "How do you view the growth of informal sector in India?",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q15",
+    "question_text": "Examine whether rural bondage still continues to be a social reality. Give your argument.",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q16",
+    "question_text": "Discuss different forms of deprivation associated with slums",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q17",
+    "question_text": "Discuss the changing nature of Industrial working class.",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q14",
+    "question_text": "Urban slums are sites of social exclusive -Explain",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q15",
+    "question_text": "Urban settlement in India tend to replicate its rural caste -kinship imprints. Discuss the main reasons.",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q18",
+    "question_text": "Point out the main causes of ‘child labor’ in India. How far the State policies have succeeded in its elimination?",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q17",
+    "question_text": "Elaborate urbanism as a way of life in India.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q18",
+    "question_text": "Elucidate the concerns of growing urban displacement dynamics in India.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q19",
+    "question_text": "Do you think that ‘demonetization’ has accelerated the economic growth in India? How do you understand the informalisation of labour, underemployment and gender discrimination in this context?",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q18",
+    "question_text": "How do you relate the growth of development of metropolis and its impact on the mental and social life of people of India?",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q19",
+    "question_text": "Write a note on Basic Services to Urban Poor (BSUP) and the Integrated Housing and Slum Development (IHSD) programmes provided for the urban poor.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q15",
+    "question_text": "Examine the impact of heritage tourism on urban socio-spatial patterns in India.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q16",
+    "question_text": "Do you agree that the issue of child labour raises questions about and beyond the informal sector? Give reasons.",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q17",
+    "question_text": "Compare the problems of a dalit poor family living in an urban slum with a similar type of family living in a rural setting",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q18",
+    "question_text": "Examine the impact of industrialization and urbanization on family structure.",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q19",
+    "question_text": "Discuss the changing nature of the problems of working class in the informal sector of the economy",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q20",
+    "question_text": "Write a detailed note on the effects of growing slums in urban areas.",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q18",
+    "question_text": "Issues relating to the informal labour market in urban India.",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T10"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q22",
+    "question_text": "Discuss the social bases of political mobilization in Independent India. Has some change occurred in last 60 to 70 years?",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q23",
+    "question_text": "What do you mean by nation building? What is the role of religion in nation building? Elaborate your answer.",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q22",
+    "question_text": "What are pressure groups? Discuss their role in decision-making in democracy.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q23",
+    "question_text": "Discuss the changing nature of political elites in India.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q24",
+    "question_text": "What do you understand by decentralisation of power? What is its role in strengthening the roots of democracy in India? Elaborate.",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q21",
+    "question_text": "How do you account for the increasing significance of religion in public and personal spheres in the context of secularization thesis in India? Explain.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q22",
+    "question_text": "Analyse the sociological interconnections between Social Media and Mass Mobilization in India.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q18",
+    "question_text": "Examine different understandings of secularisation in India",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q16",
+    "question_text": "Does regionalism essentially lead to decentralization of power? Substantiate your answer with relevant examples.",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q17",
+    "question_text": "Is social democracy a precondition for political democracy? Comment",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q19",
+    "question_text": "Secularism was an outcome of 20th century humanistic radicalism.’ Comment on this statement",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q20",
+    "question_text": "Analyze the issues related to the citizenship in contemporary India. Give suitable illustrations.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q21",
+    "question_text": "What do you understand by democratic federalism? How does it promote decentralization of power in India?",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q20",
+    "question_text": "Comment on the changing democratic profile in India.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q21",
+    "question_text": "Discuss the implications of ‘Swachh Bharat Abhiyan’. Do you think that civil society has a role to play here? Substantiate your answer with examples.",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q20",
+    "question_text": "Has caste system hindered democracy and adult franchise in India? Discuss.",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q21",
+    "question_text": "With increase in education and economic development, is Indian society becoming more secular?",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q18",
+    "question_text": "To what extent does nation building depend on strengthening of pluralities in Indian society?",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q19",
+    "question_text": "Explain the concepts of “dominant caste” and “vote bank”, giving examples from specific regions.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q19",
+    "question_text": "Write a brief note on the Freedom of Press.",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q20",
+    "question_text": "Discuss B.R. Ambedkar as a wise democrat.",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T11"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q24",
+    "question_text": "How Dalit movements in India have facilitated their Identity formation? Analyze. 10",
+    "year": 2025,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q25",
+    "question_text": "Trace the social and historical origins of Dalit movements in modern India.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q26",
+    "question_text": "What is your assessment about the recent farmers’ movement in India? Elaborate.",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q23",
+    "question_text": "Do you think that the decades of Dalit political mobilizations and movements have helped in strengthening India’s democracy? Substantiate your arguments with facts.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q24",
+    "question_text": "In the face of rising global climatic concerns, how do you contextualize the relevance of Chipko Movement and its Gandhian tone? Answer analytically.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q19",
+    "question_text": "Define ethnicity. Discuss the factors responsible for the growth of ethnic movements in India.",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q20",
+    "question_text": "Bring out the various issues involved in Dalit movements in India.",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q21",
+    "question_text": "Critically examine the dialectics between ‘development and environment’.",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q18",
+    "question_text": "What is identity politics? Discuss the main trends in Dalit movements in India.",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q19",
+    "question_text": "Rising “ethnocentrism” is leading to conflict in our society. Assess this statement with appropriate reasons",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q22",
+    "question_text": "Evaluate the nature and scope of anthropogenic influence on climate in India and also analyse the environmental movements arising out of it.",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q23",
+    "question_text": "Are the contemporary farmers’ movements in India changing their course? Discuss.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q22",
+    "question_text": "Do you agree that social movements are caused by opportunity structures that are generated by media? Why?",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q22",
+    "question_text": "Explain the dynamics of neo-farmers’ movement in contemporary India.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q23",
+    "question_text": "Elaborate the ‘Me Too’ Movement and its impact in India.",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q24",
+    "question_text": "Elaborate various forms of Dalit assertions in contemporary India. What are its implications on the Indian political system?",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q20",
+    "question_text": "Explain the issues relating to ethnicity and sub-ethnicity.",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q21",
+    "question_text": "Despite gains from the women’s movement and state policy of women empowerment, gender equality is far from achieved. Identify two major challenges that prevent this goal from being reached.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q21",
+    "question_text": "What are the factors accounting for the resurgence of ethnic identity movements in India?",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q22",
+    "question_text": "Discuss the various forms of environmental movements waged in India",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q21",
+    "question_text": "Discuss the main features of farmers’ movements in Independent India.",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q22",
+    "question_text": "What are the major concerns of ethnic identity and religious identity in India?",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q23",
+    "question_text": "Discuss the impact of post-1970 feminist movement on Indian middle class.",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T12"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q25",
+    "question_text": "What are the Private and Public network and support systems operative in Indian society for the aged? Suggest measures to curb down the challenges before care givers of the aged?",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T13"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q27",
+    "question_text": "Discuss the major challenges related to women’s reproductive health in India. What measures would you suggest to overcome these challenges?",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T13"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q25",
+    "question_text": "What is ‘Ageing’? Discuss the major problems of aged people in India.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T13"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q26",
+    "question_text": "Discuss the nature of regional variations in sex ratio in India. Stating reasons thereof.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T13"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q22",
+    "question_text": "Discuss recent trends in the structure of migration",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T13"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q20",
+    "question_text": "Is “ageing” an emerging issue in Indian society? Discuss the major problems of the old age people in India.",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T13"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q21",
+    "question_text": "Underline the socio-cultural factors responsible for India’s skewed sex ratio.",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T13"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q24",
+    "question_text": "What were the salient features of the India’s Population Policy (2000)? How far its goals have been achieved?",
+    "year": 2020,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T13"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2020_Q25",
+    "question_text": ". Give an account of the consequences and remedies of chronic malnutrition in India.",
+    "year": 2020,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T13"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q23",
+    "question_text": "Why has ‘active ageing’ become a glocal goal? Do you think the role of elderly care-giving is disproportionately gendered in developing countries? Why?",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T13"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q24",
+    "question_text": "What is social security? Examine the recent security measures adopted by the Government of India.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T13"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q25",
+    "question_text": "Construct a sociological narrative on the increasing trend of child abuse in India.",
+    "year": 2018,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T13"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q22",
+    "question_text": "What are the causes and solutions for the law female sex-ratio in the DEMARU States of Punjab, Haryana, Himachal and Gujarat?",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T13"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q23",
+    "question_text": "What are the emerging concerns on women’s reproductive health?",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T13"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q23",
+    "question_text": "How is ageing becoming an emerging issue in Indian society?",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T13"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q24",
+    "question_text": "Differential sex-ratio and its implications.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T13"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q24",
+    "question_text": "Discuss the problems of elderly in India. What are the different perspectives to solve their problems?",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T13"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q26",
+    "question_text": "Is it possible to have sustainable development in India? Cite major environmental issues and suggest a few measures to achieve the sustainability.",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2025_Q27",
+    "question_text": "Which measures would you suggest for preventing caste conflicts in India? Justify your argument.",
+    "year": 2025,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q28",
+    "question_text": "To what extent have the legal provisions been effective in curbing violence against women in India? Give your argument.",
+    "year": 2024,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2024_Q29",
+    "question_text": "What is sustainable development? How can sustainability be achieved in India where livelihood needs conflict with environmental protection?",
+    "year": 2024,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q27",
+    "question_text": "Explain the thematic linkages between ‘Patriarchy’ and ‘Honour killing’ in India. citing some recent cases.",
+    "year": 2023,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2023_Q28",
+    "question_text": "Citing some case studies, expand the concept of ‘Development-induced Displacement’.",
+    "year": 2023,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q23",
+    "question_text": "Discuss law as an important instrument for women’s empowerment.",
+    "year": 2022,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2022_Q24",
+    "question_text": "Discuss the changing nature of structure of political elites",
+    "year": 2022,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q22",
+    "question_text": "The problem of displacement is inherent in the idea of development. Analyse the statement critically.",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q23",
+    "question_text": "Discuss the role of social media in communal polarisation. Suggest ways to combat it.",
+    "year": 2021,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2021_Q24",
+    "question_text": "Does “economic empowerment” automatically bring about “substantive empowerment” for women? Briefly describe the main issues in women empowerment in India",
+    "year": 2021,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q25",
+    "question_text": "Highlight the main features of the ‘Inter-linking of Rivers’ projects in India. What could be its probable advantages to Indian agriculture?",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q26",
+    "question_text": "Has reduction of green cover affected ecological degradation leading to global warming? Elaborate your answer with illustration.",
+    "year": 2019,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2019_Q27",
+    "question_text": "What is POSH Act? “Identification of tormentor by women at workplace does not come easily even today”. Examine the statement with substantive examples from India.",
+    "year": 2019,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2018_Q26",
+    "question_text": "Western patriarchy which surrenders feminine principles is the new development project in India. Do you agree with this view? Why?",
+    "year": 2018,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q24",
+    "question_text": "What is Cultural Revivalism? Give some examples from performing arts, language dissemination and arts and crafts in recent times.",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q25",
+    "question_text": "Discuss some of the striking issues of development induced imbalances that need urgent attention.",
+    "year": 2017,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q26",
+    "question_text": "Give an account of the problems relating to the “creamy layer”.",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q27",
+    "question_text": "Write a note on Education and Equality in India",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2017_Q28",
+    "question_text": "What are the reasons for the escalation of violence against women in the public domain?",
+    "year": 2017,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q25",
+    "question_text": "Discuss the emerging forms of “inequalities” and “acute poverty” as major challenges of social transformation in India.",
+    "year": 2016,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q26",
+    "question_text": "Empowerment through “Right to Education”",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2016_Q27",
+    "question_text": "Privatization of education and increasing inequalities.",
+    "year": 2016,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q25",
+    "question_text": "Human development approach affirms that education and health-care growth are more important than economic growth. Discuss this issue in the light of post-liberalized Indian society.",
+    "year": 2015,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q26",
+    "question_text": "To what extent the Muslim Personal Law Board is in agreement with Islamic feminist agenda?",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q27",
+    "question_text": "How serious is the problem of trafficking against women and children in India?",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2015_Q28",
+    "question_text": "Effect of displacement through development on the rural landless and marginal farmers.",
+    "year": 2015,
+    "marks": 10,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  },
+  {
+    "question_id": "SOC_P2_2014_Q01",
+    "question_text": "“Many caste conflicts are between castes which are close to each other on the hierarchical scale”. Give a sociological explanation for this phenomenon.",
+    "year": 2014,
+    "marks": 20,
+    "word_limit": "",
+    "gs_paper": "SOC_P2",
+    "official_syllabus_topics": [
+      "SOC_P2_T14"
+    ]
+  }
     ]
   }
 
